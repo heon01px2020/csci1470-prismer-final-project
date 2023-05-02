@@ -1,0 +1,13 @@
+{
+    "caption": "men sitting in a room",
+    "url": "https://i.dawn.com/primary/2018/12/5c0fb7e6ba7bc.jpg",
+    "key": "000002417",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 800,
+    "original_height": 480,
+    "exif": "{\"Image ImageWidth\": \"1280\", \"Image ImageLength\": \"821\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Windows)\", \"Image DateTime\": \"2018:12:11 18:13:47\", \"Image ExifOffset\": \"232\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"96\", \"Thumbnail YResolution\": \"96\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"382\", \"Thumbnail JPEGInterchangeFormatLength\": \"7281\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"480\"}",
+    "sha256": "4d524840b492f4096d7ae4301440f4e7f8454bd62d177c3f350718d6def349dd"
+}

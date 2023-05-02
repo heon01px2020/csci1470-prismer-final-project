@@ -1,0 +1,13 @@
+{
+    "caption": "a painting of the bridge over a river with people fishing in boats and a man on the shore",
+    "url": "http://beyondcentralpark.com/images/OCA/Manhattan/View%20from%20south%20water%20color%20(1849)%20Title.jpg",
+    "key": "000008744",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 800,
+    "original_height": 400,
+    "exif": "{\"Image ImageDescription\": \"An 1849 watercolor of the Aqueduct Bridge, aka the High Bridge. Painted from the Manhattan side probably around 160th street, it shows the rural, idyllic character of the area at that point in time.\", \"Image Software\": \"Google\", \"Image DateTime\": \"2015:06:21 14:04:44\", \"Image ExifOffset\": \"290\", \"EXIF ExifVersion\": \"\", \"EXIF ExifImageWidth\": \"709\", \"EXIF ExifImageLength\": \"471\", \"EXIF ImageUniqueID\": \"b323a05a036356b892af13363b774765\"}",
+    "sha256": "f5719c4ad162579b57feb955cf4309a4405814e19b3efe97d14d07e637d80ad9"
+}

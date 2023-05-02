@@ -1,0 +1,13 @@
+{
+    "caption": "two large windows look out on a city view",
+    "url": "https://newyorkyimby.com/wp-content/uploads/2016/11/161112_07-29-43_5DS_5916-HDR-Edit.jpg",
+    "key": "000011600",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1500,
+    "original_height": 1000,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5DS\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 6.7 (Macintosh)\", \"Image DateTime\": \"2016:11:14 16:23:40\", \"Image Copyright\": \"\\u00a9 2016 Max Touhey\", \"Image ExifOffset\": \"252\", \"EXIF ExposureTime\": \"1/5\", \"EXIF FNumber\": \"8\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"125\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"125\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:11:12 07:29:43\", \"EXIF DateTimeDigitized\": \"2016:11:12 07:29:43\", \"EXIF ShutterSpeedValue\": \"7804/3361\", \"EXIF ApertureValue\": \"6\", \"EXIF ExposureBiasValue\": \"-2\", \"EXIF MaxApertureValue\": \"4\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"22\", \"EXIF SubSecTimeOriginal\": \"08\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1500\", \"EXIF ExifImageLength\": \"1000\", \"EXIF FocalPlaneXResolution\": \"7240/3\", \"EXIF FocalPlaneYResolution\": \"7240/3\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Bracket\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[16, 35, 0, 0]\", \"EXIF LensModel\": \"EF16-35mm f/4L IS USM\", \"EXIF LensSerialNumber\": \"2100004860\"}",
+    "sha256": "dc98e24d4262d5168dc7d91d6d00b4b8a8b080f27b2dac857f878d63adbab324"
+}

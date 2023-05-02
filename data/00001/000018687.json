@@ -1,0 +1,13 @@
+{
+    "caption": "a soccer ball on a green background",
+    "url": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/bd/28/40/bd284012-ad9b-f6dc-722c-41858ecc24c2/source/512x512bb.jpg",
+    "key": "000018687",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 512,
+    "original_height": 512,
+    "exif": "{\"Image ExifOffset\": \"26\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"512\", \"EXIF ExifImageLength\": \"512\"}",
+    "sha256": "a03db4b8614f4b53733eb95519fa946c029e2848b423923fbb821607f34dcb8b"
+}

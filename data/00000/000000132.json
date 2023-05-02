@@ -1,0 +1,13 @@
+{
+    "caption": "firemen put out a car fire on the side of the road",
+    "url": "http://www.firescenes.net/wp-content/uploads/2016/12/1481761244422_0246088307_a528852e-600x400.jpg",
+    "key": "000000132",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 600,
+    "original_height": 400,
+    "exif": "{\"Image ImageWidth\": \"1200\", \"Image ImageLength\": \"800\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2015.5 (Macintosh)\", \"Image DateTime\": \"2016:12:15 09:04:10\", \"Image ExifOffset\": \"240\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"390\", \"Thumbnail JPEGInterchangeFormatLength\": \"5859\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"533\"}",
+    "sha256": "ed48bd81e12d66e3f6704094b83fdbfc85f9b68892df988f827e31d7e950fd90"
+}

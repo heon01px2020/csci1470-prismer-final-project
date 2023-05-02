@@ -1,0 +1,13 @@
+{
+    "caption": "a bowl of ramen with egg, noodles and greens",
+    "url": "https://i0.wp.com/www.adayinthekitchen.com/wp-content/uploads/2017/09/miso-noodle-soup-640x490.jpg?resize=640%2C490&ssl=1",
+    "key": "000011587",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 640,
+    "original_height": 490,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 6s\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop 7.0\", \"Image DateTime\": \"2017:09:27 20:35:00\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"LisaDay\", \"Image ExifOffset\": \"228\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"898\", \"Thumbnail JPEGInterchangeFormatLength\": \"5617\", \"EXIF ExposureTime\": \"1/33\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"32\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:09:27 18:08:46\", \"EXIF DateTimeDigitized\": \"2017:09:27 18:08:46\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"2297/454\", \"EXIF ApertureValue\": \"7892/3469\", \"EXIF BrightnessValue\": \"5826/1537\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"83/20\", \"EXIF SubjectArea\": \"[2545, 1708, 753, 756]\", \"EXIF SubSecTimeOriginal\": \"291\", \"EXIF SubSecTimeDigitized\": \"291\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"490\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"29\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[83/20, 83/20, 11/5, 11/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 6s back camera 4.15mm f/2.2\"}",
+    "sha256": "a72fefc6ae8ac3946305f44ec6f62687a362f0b62da8891c41fcbed0f6666478"
+}

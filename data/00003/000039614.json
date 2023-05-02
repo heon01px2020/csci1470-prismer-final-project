@@ -1,0 +1,13 @@
+{
+    "caption": "a monkey is eating a fruit by the beach",
+    "url": "https://img.izismile.com/img/img2/20090618/bonus//2/monkeys_15.jpg",
+    "key": "000039614",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 452,
+    "original_height": 600,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS DIGITAL REBEL XT\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop 7.0\", \"Image DateTime\": \"2009:06:16 19:17:47\", \"Image WhitePoint\": \"[0, 0]\", \"Image PrimaryChromaticities\": \"[0, 0, 0, 0, 0, 0]\", \"Image YCbCrCoefficients\": \"[0, 0, 0]\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ReferenceBlackWhite\": \"[0, 0, 0, 0, 0, 0]\", \"Image ExifOffset\": \"412\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1286\", \"Thumbnail JPEGInterchangeFormatLength\": \"2988\", \"EXIF ExposureTime\": \"1/125\", \"EXIF FNumber\": \"71/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"[100, 100]\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2006:02:23 18:38:20\", \"EXIF DateTimeDigitized\": \"2006:02:23 18:38:20\", \"EXIF CompressedBitsPerPixel\": \"0\", \"EXIF ShutterSpeedValue\": \"696579/100000\", \"EXIF ApertureValue\": \"141391/25000\", \"EXIF BrightnessValue\": \"0\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"0\", \"EXIF SubjectDistance\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"85\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"452\", \"EXIF ExifImageLength\": \"600\", \"EXIF FocalPlaneXResolution\": \"395423341/100000\", \"EXIF FocalPlaneYResolution\": \"395876289/100000\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF ExposureIndex\": \"0\", \"EXIF SensingMethod\": \"0\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\"}",
+    "sha256": "106481a03ab802d7657757fbf492c040a3be661522b4e6354ccfbb24c4425d00"
+}

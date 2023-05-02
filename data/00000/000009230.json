@@ -1,0 +1,13 @@
+{
+    "caption": "the entrance to the fashion store",
+    "url": "https://santorinidave.com/wp-content/uploads/2019/05/agra-howard-plaza-boutiques-6.jpg",
+    "key": "000009230",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 680,
+    "original_height": 480,
+    "exif": "{\"Image Make\": \"samsung\", \"Image Model\": \"SM-G950F\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Photos 4.0\", \"Image DateTime\": \"2019:01:13 10:27:27\", \"Image ExifOffset\": \"188\", \"EXIF ExposureTime\": \"1/20\", \"EXIF FNumber\": \"17/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:01:13 10:27:27\", \"EXIF DateTimeDigitized\": \"2019:01:13 10:27:27\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"108/25\", \"EXIF ApertureValue\": \"153/100\", \"EXIF BrightnessValue\": \"-27/100\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"153/100\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"21/5\", \"EXIF SubSecTime\": \"0113\", \"EXIF SubSecTimeOriginal\": \"0113\", \"EXIF SubSecTimeDigitized\": \"0113\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"680\", \"EXIF ExifImageLength\": \"480\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"26\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "00f3d61d38db3ddcafbf9cc0be2d37656a89999af9abf317e59f8088795f04eb"
+}

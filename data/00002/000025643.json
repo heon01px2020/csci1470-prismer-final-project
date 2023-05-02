@@ -1,0 +1,13 @@
+{
+    "caption": "some grey leaves are shown on the plant, and some brown leaves are shown on the plant",
+    "url": "http://www.keithcchan.com/wordpress/wp-content/uploads/IMG_1471-450x600.jpg",
+    "key": "000025643",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 450,
+    "original_height": 600,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 8\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Photos 3.0\", \"Image DateTime\": \"2017:10:02 13:46:00\", \"Image ExifOffset\": \"174\", \"EXIF ExposureTime\": \"1/1656\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"20\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:10:02 13:46:00\", \"EXIF DateTimeDigitized\": \"2017:10:02 13:46:00\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"6726/629\", \"EXIF ApertureValue\": \"2159/1273\", \"EXIF BrightnessValue\": \"19996/1999\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"399/100\", \"EXIF SubjectArea\": \"[1105, 1430, 753, 756]\", \"EXIF SubSecTimeOriginal\": \"650\", \"EXIF SubSecTimeDigitized\": \"650\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3024\", \"EXIF ExifImageLength\": \"4032\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[399/100, 399/100, 9/5, 9/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 8 back camera 3.99mm f/1.8\"}",
+    "sha256": "9322811fb2551432d44f429cdb4b3b3ed51e24bc8343974bfab42e625b4c0a14"
+}

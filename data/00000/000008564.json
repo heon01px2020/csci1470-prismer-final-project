@@ -1,0 +1,13 @@
+{
+    "caption": "a painting depicting a surreal landscape of an aqueduct with two humanoids in the foreground, with skeletons and",
+    "url": "https://www.salvador-dali.org/media/upload/cataleg_pintura/MITJA/0601.jpg",
+    "key": "000008564",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 800,
+    "original_height": 619,
+    "exif": "{\"Image ImageWidth\": \"5004\", \"Image ImageLength\": \"3870\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image Compression\": \"Uncompressed\", \"Image PhotometricInterpretation\": \"2\", \"Image ImageDescription\": \"B0107P 0100\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"600\", \"Image YResolution\": \"600\", \"Image PlanarConfiguration\": \"1\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS3 Windows\", \"Image DateTime\": \"2017:01:17 11:42:18\", \"Image Artist\": \"marti gasull\", \"Image Copyright\": \"marti gasull\", \"Image ExifOffset\": \"316\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"442\", \"Thumbnail JPEGInterchangeFormatLength\": \"5511\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"619\"}",
+    "sha256": "c86000f1cca238b72ac16dd71580e19c2f87371c999076be5d10b75a2f50ed68"
+}

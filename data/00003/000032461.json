@@ -1,0 +1,13 @@
+{
+    "caption": "a large yard with flowers in the foreground and mountains in the background",
+    "url": "https://www.hemlockinn.com/wp-content/uploads/2012/12/IMGP0005-1024x680.jpg",
+    "key": "000032461",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1024,
+    "original_height": 680,
+    "exif": "{\"Image Make\": \"PENTAX\", \"Image Model\": \"PENTAX K20D\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"K20D Ver 1.01\", \"Image DateTime\": \"2009:07:01 14:29:41\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"598\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"54408\", \"Thumbnail JPEGInterchangeFormatLength\": \"7996\", \"EXIF ExposureTime\": \"1/180\", \"EXIF FNumber\": \"8\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2009:07:01 14:29:41\", \"EXIF DateTimeDigitized\": \"2009:07:01 14:29:41\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"2313/100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4672\", \"EXIF ExifImageLength\": \"3104\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"54284\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"34\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Hard\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Hard\", \"EXIF SubjectDistanceRange\": \"2\"}",
+    "sha256": "04caaa4567cf33277f4d3881cb0df526247d5d76db35cd62932bc9c1b8d156a1"
+}

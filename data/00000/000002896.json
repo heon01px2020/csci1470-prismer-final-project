@@ -1,0 +1,13 @@
+{
+    "caption": "a leather stool is in front of a white couch and window",
+    "url": "https://images1.novica.net/pictures/4/p267896_2_400.jpg",
+    "key": "000002896",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 400,
+    "original_height": 400,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifVersion\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"400\", \"EXIF ExifImageLength\": \"400\"}",
+    "sha256": "3577865cbc333d5361ef651fc5aefa2394d28c5a4d7fb9f9a90471acd295c60c"
+}

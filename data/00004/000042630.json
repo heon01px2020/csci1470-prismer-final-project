@@ -1,0 +1,13 @@
+{
+    "caption": "a man sitting on a bed with his eyes open and head tilted",
+    "url": "https://media.milkyvideo.com/thumbs/5/b/3/7/6/5b365a6903dc3.mp4/5b365a6903dc3.mp4-3.jpg",
+    "key": "000042630",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 690,
+    "original_height": 417,
+    "exif": "{\"Image Tag 0x000B\": \"Windows Photo Editor 10.0.10011.16384\", \"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"Windows Photo Editor 10.0.10011.16384\", \"Image DateTime\": \"2018:07:02 14:36:43\", \"Image Artist\": \"Marco\", \"Image ExifOffset\": \"2272\", \"Image XPAuthor\": \"\", \"Image Padding\": \"[]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"96\", \"Thumbnail YResolution\": \"96\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"4558\", \"Thumbnail JPEGInterchangeFormatLength\": \"6905\", \"EXIF DateTimeOriginal\": \"2018:07:02 14:36:24\", \"EXIF DateTimeDigitized\": \"2018:07:02 14:36:24\", \"EXIF SubSecTimeOriginal\": \"32\", \"EXIF SubSecTimeDigitized\": \"32\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "048300d39d899fd2f44dac15d7ddd72904ec3464f0314eed4aae6aa8186dfcca"
+}

@@ -1,0 +1,13 @@
+{
+    "caption": "the flower has the shape of an cat's head",
+    "url": "https://files.ankewehner.com/art/2018/2018-07-01_lilyfox.jpg",
+    "key": "000048403",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 540,
+    "original_height": 1231,
+    "exif": "{\"Image ImageDescription\": \"Lily Fox\", \"Image ExifOffset\": \"2110\", \"Image XPTitle\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\", \"Image XPKeywords\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image Padding\": \"[]\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "3afaee7eea519ea4de5e8d91f97e7a81718806bea846540400c378246864b327"
+}

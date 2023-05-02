@@ -1,0 +1,13 @@
+{
+    "caption": "a hallway inside a prison with lots of people walking around",
+    "url": "http://bayimages.net/images/43/tourists-visiting-alcatraz-prison-22143.jpg",
+    "key": "000046958",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 636,
+    "original_height": 424,
+    "exif": "{\"Image ImageDescription\": \"Tourists visiting the prison cell blocks at Alcatraz.\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Artist\": \"Stephen Bay\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"\\u00a9 Stephen Bay / bayimages.net\", \"Image ExifOffset\": \"236\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[37, 49, 3633/100]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[122, 25, 2859/125]\", \"Image GPSInfo\": \"332\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"302\"}",
+    "sha256": "eb8a93be9d1e948d39605ad8330fff8d4d69fb2a88ce160da3ee0278d7cc59c9"
+}

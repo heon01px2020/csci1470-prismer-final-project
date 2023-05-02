@@ -1,0 +1,13 @@
+{
+    "caption": "a white bike sits on a display table",
+    "url": "https://images.immediate.co.uk/production/volatile/sites/21/2019/03/1439243553128-swchkyh5spja-9a3ed23.jpg?quality=90&resize=960%2C540",
+    "key": "000018457",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 960,
+    "original_height": 540,
+    "exif": "{\"Image ImageWidth\": \"4000\", \"Image ImageLength\": \"2248\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image ImageDescription\": \"\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot S120\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Macintosh)\", \"Image DateTime\": \"2015:08:08 12:27:22\", \"Image ExifOffset\": \"328\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"916\", \"Thumbnail JPEGInterchangeFormatLength\": \"5167\", \"EXIF ExposureTime\": \"1/200\", \"EXIF FNumber\": \"9/5\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF SensitivityType\": \"Standard Output Sensitivity and Recommended Exposure Index\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:08:08 11:11:51\", \"EXIF DateTimeDigitized\": \"2015:08:08 11:11:51\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"3\", \"EXIF ShutterSpeedValue\": \"245/32\", \"EXIF ApertureValue\": \"27/16\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"27/16\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"26/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"960\", \"EXIF ExifImageLength\": \"540\", \"EXIF FocalPlaneXResolution\": \"371134/27\", \"EXIF FocalPlaneYResolution\": \"369863/27\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "738da84312c30089bce1143e642e05bf75835e549105b1225e4208bd0b0a60e3"
+}

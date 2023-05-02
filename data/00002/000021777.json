@@ -1,0 +1,13 @@
+{
+    "caption": "a person washing dishes in a kitchen",
+    "url": "https://www.tasteofhome.com/wp-content/uploads/2020/01/untidy-kitchen-slow-motion-GettyImages-929676872-800x450.jpg",
+    "key": "000021777",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 800,
+    "original_height": 450,
+    "exif": "{\"Image ImageWidth\": \"5472\", \"Image ImageLength\": \"3648\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image Compression\": \"Uncompressed\", \"Image PhotometricInterpretation\": \"2\", \"Image ImageDescription\": \"Closeup of unrecognizable woman doing dishes with lots of dirty plates and pots waiting aside. She's cleaning a black non stick cooking pan. (Closeup of unrecognizable woman doing dishes with lots of dirty plates and pots waiting aside. She's cleaning\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS-1D X Mark II\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image PlanarConfiguration\": \"1\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2018 (Macintosh) (Adobe Photoshop CC 2018\", \"Image DateTime\": \"2020:01:28 10:07:24\", \"Image Artist\": \"gilaxia\", \"Image ExifOffset\": \"624\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1160\", \"Thumbnail JPEGInterchangeFormatLength\": \"5894\", \"EXIF ExposureTime\": \"1/1250\", \"EXIF FNumber\": \"7/5\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"1600\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:03:07 12:52:29\", \"EXIF DateTimeDigitized\": \"2018:03:07 12:52:29\", \"EXIF ShutterSpeedValue\": \"321491/31250\", \"EXIF ApertureValue\": \"485427/500000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"1\", \"EXIF MeteringMode\": \"Partial\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"35\", \"EXIF SubSecTimeOriginal\": \"17\", \"EXIF SubSecTimeDigitized\": \"17\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"450\", \"EXIF FocalPlaneXResolution\": \"1520\", \"EXIF FocalPlaneYResolution\": \"1520\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "d1a7b90a977826ec601ec2768918a0fc734ce390d1f5f2c9cdfa11fa40d52a52"
+}

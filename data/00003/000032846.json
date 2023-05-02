@@ -1,0 +1,13 @@
+{
+    "caption": "a room with large wooden tables with a wooden top and chairs",
+    "url": "https://savorjapan.com/gg/content_image/p-restaurant-1368o.jpg",
+    "key": "000032846",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 600,
+    "original_height": 449,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 7\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Instagram\", \"Image DateTime\": \"2018:04:27 10:53:50\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"196\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1742\", \"Thumbnail JPEGInterchangeFormatLength\": \"13825\", \"EXIF ExposureTime\": \"1/17\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"40\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:04:27 10:53:50\", \"EXIF DateTimeDigitized\": \"2018:04:27 10:53:50\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"2676/659\", \"EXIF ApertureValue\": \"2159/1273\", \"EXIF BrightnessValue\": \"11995/4619\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"399/100\", \"EXIF SubjectArea\": \"[2015, 1511, 2217, 1330]\", \"EXIF SubSecTimeOriginal\": \"891\", \"EXIF SubSecTimeDigitized\": \"891\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"449\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "36801ac3f3de59df0ffe591426cca4a4faf18e9bbd9fce1a98dfc8141ba38e67"
+}

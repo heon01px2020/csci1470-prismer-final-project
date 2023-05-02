@@ -1,0 +1,13 @@
+{
+    "caption": "a male lacrosse player lunges to a ball",
+    "url": "https://cdn.newsday.com/polopoly_fs/1.13543498.1493519718!/httpImage/image.JPG_gen/derivatives/landscape_1280/image.JPG",
+    "key": "000030040",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1280,
+    "original_height": 719,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1280\", \"EXIF ExifImageLength\": \"719\"}",
+    "sha256": "4c802abfc98742250340067b98e3d0f13047470012aa757ae017c62dd88a88ea"
+}

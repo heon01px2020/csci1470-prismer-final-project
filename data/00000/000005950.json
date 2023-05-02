@@ -1,0 +1,13 @@
+{
+    "caption": "stone wall and grassy field against a cloudy sky",
+    "url": "http://fieldofmerit.org/wp-content/uploads/2013/05/1Hut-on-the-hill-1024x428.jpg",
+    "key": "000005950",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1024,
+    "original_height": 428,
+    "exif": "{\"Image ImageWidth\": \"3264\", \"Image ImageLength\": \"2448\", \"Image Make\": \"SAMSUNG\", \"Image Model\": \"GT-I9100P\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"I9100PBVKI3\", \"Image DateTime\": \"2013:05:24 20:31:10\", \"Image Artist\": \"Picasa\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"232\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"812\", \"Thumbnail JPEGInterchangeFormatLength\": \"3786\", \"EXIF ExposureTime\": \"1/2452\", \"EXIF FNumber\": \"53/20\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"32\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:05:23 15:51:48\", \"EXIF DateTimeDigitized\": \"2013:05:23 15:51:48\", \"EXIF ShutterSpeedValue\": \"563/50\", \"EXIF ApertureValue\": \"281/100\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"281/100\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"397/100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"0\", \"EXIF ExifImageWidth\": \"2000\", \"EXIF ExifImageLength\": \"836\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"3264\", \"Interoperability RelatedImageLength\": \"2448\", \"EXIF InteroperabilityOffset\": \"676\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"491c0aee51165d5899dac022621a15ed\"}",
+    "sha256": "e87e87691bb7305b32d45dc8460e8f1c309e3288099e4bef07cff8e57a9efeed"
+}

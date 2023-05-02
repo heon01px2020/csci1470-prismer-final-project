@@ -1,0 +1,13 @@
+{
+    "caption": "a pair of sneakers that is worn to the game",
+    "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2015/09/30/1b9a08be-006e-4e37-a02e-7c57e7aa5f85/resize/620x465/15c7be3709317825129f55b36a3daed5/11-dunk-supreme-ron-wood.jpg",
+    "key": "000032587",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 620,
+    "original_height": 413,
+    "exif": "{\"Image Model\": \"Canon EOS 5D Mark III\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image Software\": \"Photoshelter http://www.photoshelter.com\", \"Image DateTime\": \"2015:02:03 15:44:23\", \"Image Artist\": \"Ron Wood\", \"Image ExifOffset\": \"208\", \"EXIF ExposureTime\": \"1/160\", \"EXIF FNumber\": \"18\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:06:05 16:25:33\", \"EXIF DateTimeDigitized\": \"2014:06:05 16:25:33\", \"EXIF ShutterSpeedValue\": \"915241/125000\", \"EXIF ApertureValue\": \"166797/20000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"7/4\", \"EXIF SubjectDistance\": \"31/25\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"85\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"5760\", \"EXIF ExifImageLength\": \"3840\", \"EXIF FocalPlaneXResolution\": \"160\", \"EXIF FocalPlaneYResolution\": \"160\", \"EXIF FocalPlaneResolutionUnit\": \"4\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"052123001056\", \"EXIF LensSpecification\": \"[85, 85, 0/0, 0/0]\", \"EXIF LensModel\": \"EF85mm f/1.8 USM\", \"EXIF LensSerialNumber\": \"0000000000\"}",
+    "sha256": "fb4be4490f084bc21c5479d7bfd76d549fde036c5fcdd52de8b74f0517397573"
+}

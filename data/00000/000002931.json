@@ -1,0 +1,13 @@
+{
+    "caption": "a blue and white golf umbrella with a black handle",
+    "url": "https://www.susino.co.uk/UserFiles/images/products/3475r.jpg",
+    "key": "000002931",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 582,
+    "original_height": 582,
+    "exif": "{\"Image ImageWidth\": \"1953\", \"Image ImageLength\": \"1953\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2018 (Windows)\", \"Image DateTime\": \"2018:07:30 08:58:55\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"386\", \"Thumbnail JPEGInterchangeFormatLength\": \"5111\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"582\", \"EXIF ExifImageLength\": \"582\"}",
+    "sha256": "e53aeeb779d4894726b685579f1d59a002df8193d0f15c269e9c43f585504a2c"
+}

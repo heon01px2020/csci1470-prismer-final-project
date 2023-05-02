@@ -1,0 +1,13 @@
+{
+    "caption": "an aerial view of the city",
+    "url": "https://bizjak.org/wp-content/uploads/2017/08/new_york-339.jpg",
+    "key": "000018841",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 6000,
+    "original_height": 4000,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 80D\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 6.5 (Windows)\", \"Image DateTime\": \"2017:08:15 23:21:09\", \"Image Artist\": \"Jani; Jani Bizjak <jani.bizjak+photo@gmail.com>\", \"Image Copyright\": \"\\u00a9 2016 Jani Bizjak. All rights reserved. This material may not be reproduced, displayed, modified or distributed without the express prior written permission of the copyright holder. For permission, contact jani.bizjak@gmail.com .\", \"Image ExifOffset\": \"510\", \"EXIF ExposureTime\": \"1/80\", \"EXIF FNumber\": \"8\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"800\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"800\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:07:15 20:07:17\", \"EXIF DateTimeDigitized\": \"2016:07:16 02:07:17\", \"EXIF ShutterSpeedValue\": \"790241/125000\", \"EXIF ApertureValue\": \"6\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"17\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FocalPlaneXResolution\": \"88104193/32768\", \"EXIF FocalPlaneYResolution\": \"88104193/32768\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF CameraOwnerName\": \"Jani Bizjak\", \"EXIF BodySerialNumber\": \"033021007512\", \"EXIF LensSpecification\": \"[17, 55, 0/0, 0/0]\", \"EXIF LensModel\": \"EF-S17-55mm f/2.8 IS USM\", \"EXIF LensSerialNumber\": \"00000196f5\"}",
+    "sha256": "4aa3e90db720304f13d2085dedfaf7692f129503efb338c804efc0cc48f96ba2"
+}

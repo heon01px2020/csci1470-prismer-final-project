@@ -1,0 +1,13 @@
+{
+    "caption": "the statue on the corner of a city street",
+    "url": "https://static.972mag.com/dev/uploads/2011/11/and620.jpg",
+    "key": "000021920",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 620,
+    "original_height": 550,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 60D\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"800\", \"Image YResolution\": \"800\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Digital Photo Professional\", \"Image DateTime\": \"2011:11:11 20:29:17\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"218\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"800\", \"Thumbnail YResolution\": \"800\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"5128\", \"Thumbnail JPEGInterchangeFormatLength\": \"6659\", \"Thumbnail YCbCrPositioning\": \"Co-sited\", \"EXIF ExposureTime\": \"1/640\", \"EXIF FNumber\": \"8\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:11:01 13:02:59\", \"EXIF DateTimeDigitized\": \"2011:11:01 13:02:59\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"75/8\", \"EXIF ApertureValue\": \"6\", \"EXIF ExposureBiasValue\": \"1/3\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"620\", \"EXIF ExifImageLength\": \"550\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"1616\", \"Interoperability RelatedImageLength\": \"2100\", \"EXIF InteroperabilityOffset\": \"4963\", \"EXIF FocalPlaneXResolution\": \"777600/181\", \"EXIF FocalPlaneYResolution\": \"518400/119\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "9cbc570802d04351e97db909531579b2691bba421eca42c87ea47c09aa46a41d"
+}

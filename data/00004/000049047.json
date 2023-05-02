@@ -1,0 +1,13 @@
+{
+    "caption": "a boat out on the water",
+    "url": "http://www.kellydaycharters.com/images/600/KellyDayCharters-Med.jpg",
+    "key": "000049047",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 600,
+    "original_height": 400,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Artist\": \"DOUGLAS BENOIT\", \"Image ExifOffset\": \"106\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"230\", \"Thumbnail JPEGInterchangeFormatLength\": \"10741\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\"}",
+    "sha256": "929c9d0cce433b072852e41a7e9d170c97d62ca796ef93a7b356b15a14e24f7d"
+}

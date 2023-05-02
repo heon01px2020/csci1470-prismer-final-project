@@ -1,0 +1,13 @@
+{
+    "caption": "a woman holding a lake trout",
+    "url": "https://i2.wp.com/fishingbooker.com/blog/media/lake-champlain-family-fishing-trip.jpg?resize=718%2C567&ssl=1",
+    "key": "000040283",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 718,
+    "original_height": 567,
+    "exif": "{\"Image ImageWidth\": \"1367\", \"Image ImageLength\": \"1080\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2017 (Macintosh)\", \"Image DateTime\": \"2018:06:28 11:48:23\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"386\", \"Thumbnail JPEGInterchangeFormatLength\": \"7016\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"718\", \"EXIF ExifImageLength\": \"567\"}",
+    "sha256": "9eaae77b6d9c4aeb650522fd03e957407d03ec89ba080b73748163f02ddf1a7b"
+}

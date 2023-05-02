@@ -1,0 +1,13 @@
+{
+    "caption": "two black bears on the side of a road, with their cub crossing the road",
+    "url": "https://www.nps.gov/npgallery/GetAsset/B83D0B9B-1DD8-B71C-07297B558B2F7F6F/proxy/hires?",
+    "key": "000013543",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1000,
+    "original_height": 750,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"SONY\", \"Image Model\": \"DSC-H50\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2010:06:26 13:46:25\", \"Image ExifOffset\": \"203\", \"EXIF ExposureTime\": \"1/160\", \"EXIF FNumber\": \"9/2\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2010:06:26 13:46:25\", \"EXIF DateTimeDigitized\": \"2010:06:26 13:46:25\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"23/8\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"78\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2048\", \"EXIF ExifImageLength\": \"1536\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\"}",
+    "sha256": "5cc825982fbc04b018c7bf210abaf2538ca38a31705ade7faa1e6465b4f06c82"
+}

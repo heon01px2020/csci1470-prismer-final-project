@@ -1,0 +1,13 @@
+{
+    "caption": "a painting of two people and a dog on the beach",
+    "url": "https://cdn.artcld.com/img/w_800,h_800,c_pad,b_ffffff/7vnp15vb9fkv0dl06w5m.jpg",
+    "key": "000039309",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 800,
+    "original_height": 800,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2676\", \"EXIF ExifImageLength\": \"2202\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "946237914ef13f4f579cb0b0bb8e67ded2f8af0d1b618f039958972e23949608"
+}

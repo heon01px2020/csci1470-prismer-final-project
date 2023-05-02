@@ -1,0 +1,13 @@
+{
+    "caption": "a mannequin in a box made out of fake items",
+    "url": "https://pittsburghorbit.files.wordpress.com/2015/04/art-all-night-appliance.jpg?w=620",
+    "key": "000038550",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 400,
+    "original_height": 500,
+    "exif": "{\"Image Make\": \"SAMSUNG\", \"Image Model\": \"SGH-T999\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"T999UVUENC2\", \"Image DateTime\": \"2015:04:26 11:03:58\", \"Image ExifOffset\": \"188\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"13/5\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"320\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:04:26 11:03:58\", \"EXIF DateTimeDigitized\": \"2015:04:26 11:03:58\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"125/32\", \"EXIF ApertureValue\": \"69/25\", \"EXIF BrightnessValue\": \"23/256\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"69/25\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"37/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"400\", \"EXIF ExifImageLength\": \"500\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"5c6cf99b636f81720000000000000000\"}",
+    "sha256": "6a10d8788e3ae35d7b4f53c66da561cd49ec45e5b0eb12798c37faca42c38a23"
+}

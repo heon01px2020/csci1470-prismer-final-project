@@ -1,0 +1,13 @@
+{
+    "caption": "a restaurant or other place with tables, chairs and plants in it",
+    "url": "https://images.immediate.co.uk/production/volatile/sites/2/2018/04/CS-Garden_room-1-ed0ce5e.jpg?quality=90&resize=556%2C723",
+    "key": "000019800",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 556,
+    "original_height": 723,
+    "exif": "{\"Image ImageWidth\": \"5300\", \"Image ImageLength\": \"3528\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image Compression\": \"Uncompressed\", \"Image PhotometricInterpretation\": \"2\", \"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D4S\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image PlanarConfiguration\": \"1\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2017 (Macintosh)\", \"Image DateTime\": \"2017:10:16 14:22:37\", \"Image Artist\": \"Tim Winter\", \"Image ExifOffset\": \"336\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"964\", \"Thumbnail JPEGInterchangeFormatLength\": \"9124\", \"EXIF ExposureTime\": \"2/5\", \"EXIF FNumber\": \"22\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:10:13 10:14:16\", \"EXIF DateTimeDigitized\": \"2017:10:13 10:14:16\", \"EXIF ShutterSpeedValue\": \"28165/21306\", \"EXIF ApertureValue\": \"147188/16503\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"4\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"24\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"556\", \"EXIF ExifImageLength\": \"723\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"2040258\", \"EXIF LensSpecification\": \"[24, 120, 4, 4]\", \"EXIF LensModel\": \"24.0-120.0 mm f/4.0\"}",
+    "sha256": "f579591a0c2a594889887bd6fbbaee371da947f54c02ba6b4000e4f09318019e"
+}

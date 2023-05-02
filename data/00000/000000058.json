@@ -1,0 +1,13 @@
+{
+    "caption": "a small cair in the middle of a field",
+    "url": "http://www.mypennines.co.uk/images/nidderdale/jordan-crags.JPG",
+    "key": "000000058",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 647,
+    "original_height": 486,
+    "exif": "{\"Image Make\": \"Panasonic\", \"Image Model\": \"DMC-G3\", \"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"Ver.1.0\", \"Image DateTime\": \"2015:03:28 16:02:46\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"2266\", \"Image SensitivityType\": \"Standard Output Sensitivity\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image Tag 0xC6D2\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image Tag 0xC6D3\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image Padding\": \"[]\", \"EXIF ExposureTime\": \"1/200\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Landscape Mode\", \"EXIF ISOSpeedRatings\": \"160\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:03:28 16:02:46\", \"EXIF DateTimeDigitized\": \"2015:03:28 16:02:46\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"929/256\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"14\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4592\", \"EXIF ExifImageLength\": \"3448\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"12788\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Landscape\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF Padding\": \"[]\", \"EXIF OffsetSchema\": \"4180\"}",
+    "sha256": "29425b13b4d4b5abae3eeba42959c6a4c713b3a290711017bebd5803dd822be2"
+}

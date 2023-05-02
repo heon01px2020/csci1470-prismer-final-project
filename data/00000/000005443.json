@@ -1,0 +1,13 @@
+{
+    "caption": "a hand that is pressing into a smart vending machine",
+    "url": "http://www.mdcthereporter.com/wp-content/uploads/2016/09/Vending-machines-683x1024.jpg",
+    "key": "000005443",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 683,
+    "original_height": 1024,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS REBEL T5\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS4 Macintosh\", \"Image DateTime\": \"2016:09:09 22:09:24\", \"Image ExifOffset\": \"216\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"934\", \"Thumbnail JPEGInterchangeFormatLength\": \"6706\", \"EXIF ExposureTime\": \"1/80\", \"EXIF FNumber\": \"5\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:08:22 03:59:53\", \"EXIF DateTimeDigitized\": \"2016:08:22 03:59:53\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"51/8\", \"EXIF ApertureValue\": \"37/8\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"22986/4561\", \"EXIF MeteringMode\": \"Partial\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"39\", \"EXIF SubSecTime\": \"99\", \"EXIF SubSecTimeOriginal\": \"99\", \"EXIF SubSecTimeDigitized\": \"99\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3456\", \"EXIF ExifImageLength\": \"5184\", \"EXIF FocalPlaneXResolution\": \"97379/17\", \"EXIF FocalPlaneYResolution\": \"331079/57\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"072073024143\", \"EXIF LensSpecification\": \"[18, 55, 0, 0]\", \"EXIF LensModel\": \"EF-S18-55mm f/3.5-5.6 IS II\", \"EXIF LensSerialNumber\": \"00004c7bd3\"}",
+    "sha256": "ffb2c0611174e22b271e458e3ffd11e46a01072359fc2e87194ef57ef76dff5b"
+}

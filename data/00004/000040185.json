@@ -1,0 +1,13 @@
+{
+    "caption": "a padlock in a cage with a city behind it",
+    "url": "https://www.mymeenalife.com/wp-content/uploads/2016/08/IMG_6451.jpg",
+    "key": "000040185",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 4608,
+    "original_height": 3456,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot SX600 HS\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"180\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Picasa\", \"Image DateTime\": \"2016:08:12 21:19:24\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"252\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"6644\", \"Thumbnail JPEGInterchangeFormatLength\": \"7491\", \"EXIF ExposureTime\": \"1/1000\", \"EXIF FNumber\": \"19/5\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF SensitivityType\": \"Standard Output Sensitivity and Recommended Exposure Index\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:08:12 21:19:24\", \"EXIF DateTimeDigitized\": \"2016:08:12 21:19:24\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"3\", \"EXIF ShutterSpeedValue\": \"319/32\", \"EXIF ApertureValue\": \"123/32\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"123/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"9/2\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4608\", \"EXIF ExifImageLength\": \"3456\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"4608\", \"Interoperability RelatedImageLength\": \"3456\", \"EXIF InteroperabilityOffset\": \"6496\", \"EXIF FocalPlaneXResolution\": \"512000/27\", \"EXIF FocalPlaneYResolution\": \"1728000/91\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"2aae7f7c59c631e20000000000000000\", \"EXIF CameraOwnerName\": \"\"}",
+    "sha256": "7b070774c7ba444e0633df4fa2fe72e4777133d0aea9e09ec4fdda4d58c41d20"
+}

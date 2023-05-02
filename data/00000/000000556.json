@@ -1,0 +1,13 @@
+{
+    "caption": "a painting by the artist person showing military officers in a village",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Last_hour_of_the_Battle_of_Pea_Ridge.jpg/600px-Last_hour_of_the_Battle_of_Pea_Ridge.jpg",
+    "key": "000000556",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 600,
+    "original_height": 445,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Public Domain, from the British Library's collections, 2013\"}",
+    "sha256": "9f2e6777be88c09f0f9b26893323fb5fb8405b6f80d36adc25cc2b92899ce19a"
+}

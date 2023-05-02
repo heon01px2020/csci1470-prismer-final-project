@@ -1,0 +1,13 @@
+{
+    "caption": "a young boy is playing an electric guitar",
+    "url": "https://i1.wp.com/westhill.wandsworth.sch.uk/wp-content/uploads/2019/06/N7A8316.jpg?fit=1920%2C1280&ssl=1",
+    "key": "000013537",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1920,
+    "original_height": 1280,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D Mark IV\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 6.14 (Windows)\", \"Image DateTime\": \"2018:12:14 15:42:40\", \"Image Artist\": \"DANIEL PULLEN 07747 601871\", \"Image Copyright\": \"DANIEL PULLEN 2016\", \"Image ExifOffset\": \"290\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"948\", \"Thumbnail JPEGInterchangeFormatLength\": \"13755\", \"EXIF ExposureTime\": \"1/125\", \"EXIF FNumber\": \"14/5\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"2000\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"2000\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:12:12 14:46:49\", \"EXIF DateTimeDigitized\": \"2018:12:12 14:46:49\", \"EXIF ShutterSpeedValue\": \"870723/125000\", \"EXIF ApertureValue\": \"1485427/500000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash fired, compulsory flash mode\", \"EXIF FocalLength\": \"100\", \"EXIF SubSecTimeOriginal\": \"90\", \"EXIF SubSecTimeDigitized\": \"90\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FocalPlaneXResolution\": \"61166933/32768\", \"EXIF FocalPlaneYResolution\": \"61166933/32768\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"013021000957\", \"EXIF LensSpecification\": \"[70, 200, 0/0, 0/0]\", \"EXIF LensModel\": \"EF70-200mm f/2.8L IS II USM\", \"EXIF LensSerialNumber\": \"000042db39\"}",
+    "sha256": "2903c8403511567889d64393eea5112e1ceff314c553c7a44b8e130af492002a"
+}

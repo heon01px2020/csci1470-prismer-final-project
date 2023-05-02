@@ -1,0 +1,13 @@
+{
+    "caption": "a group of students standing in front of an american flag holding a banner",
+    "url": "https://assets.dnainfo.com/photo/2017/6/1497904711-302266/extralarge.jpg",
+    "key": "000022677",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 620,
+    "original_height": 413,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS REBEL T3i\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Photos 2.0\", \"Image DateTime\": \"2017:06:18 23:42:17\", \"Image ExifOffset\": \"184\", \"EXIF ExposureTime\": \"1/125\", \"EXIF FNumber\": \"9/2\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"2000\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"2000\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:06:18 23:42:17\", \"EXIF DateTimeDigitized\": \"2017:06:18 23:42:17\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"7\", \"EXIF ApertureValue\": \"35/8\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"4679/1313\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"18\", \"EXIF SubSecTime\": \"68\", \"EXIF SubSecTimeOriginal\": \"68\", \"EXIF SubSecTimeDigitized\": \"68\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4905\", \"EXIF ExifImageLength\": \"3270\", \"EXIF FocalPlaneXResolution\": \"97379/17\", \"EXIF FocalPlaneYResolution\": \"331079/57\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"172066070897\", \"EXIF LensSpecification\": \"[18, 55, 0, 0]\", \"EXIF LensModel\": \"EF-S18-55mm f/3.5-5.6 IS II\", \"EXIF LensSerialNumber\": \"00002f7687\"}",
+    "sha256": "9db761aff556981cef359d1ff76339e48498de37700f33ee69c1fe96a9ed9332"
+}

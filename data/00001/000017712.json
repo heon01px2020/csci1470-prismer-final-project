@@ -1,0 +1,13 @@
+{
+    "caption": "the pope is pictured as he waves his hand to the crowd",
+    "url": "https://drexel.edu/~/media/Images/now/v2/story-images/2015/september/Pope_Francis_Photo_2-pr.ashx?h=530&la=en&w=800&hash=B6596293800D56193A4D22625B9ACF7581176695",
+    "key": "000017712",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 800,
+    "original_height": 530,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D5100\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Elements 10.0 Macintosh\", \"Image DateTime\": \"2015:09:23 08:55:53\", \"Image Artist\": \"Alfredo Borba\", \"Image Copyright\": \"Alfredo J G A Borba\", \"Image ExifOffset\": \"288\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1034\", \"Thumbnail JPEGInterchangeFormatLength\": \"9077\", \"EXIF ExposureTime\": \"1/400\", \"EXIF FNumber\": \"11\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"320\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:06:06 07:25:48\", \"EXIF DateTimeDigitized\": \"2014:06:06 07:25:48\", \"EXIF ShutterSpeedValue\": \"540241/62500\", \"EXIF ApertureValue\": \"6918863/1000000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"5\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"300\", \"EXIF SubSecTimeOriginal\": \"70\", \"EXIF SubSecTimeDigitized\": \"70\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"530\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CVAPattern\": \"[0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"450\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"2056789\", \"EXIF LensSpecification\": \"[55, 300, 9/2, 28/5]\", \"EXIF LensModel\": \"55.0-300.0 mm f/4.5-5.6\"}",
+    "sha256": "c9714d79d94473a0e0be658be01a51b1444de687db4094d939a0722161503552"
+}

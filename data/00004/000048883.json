@@ -1,0 +1,13 @@
+{
+    "caption": "an artistic wooden object with a purple and red paint lining",
+    "url": "https://www.micromundo.es/wp-content/uploads/2017/11/IMG_2776-2-2-1-400x400.jpg",
+    "key": "000048883",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 400,
+    "original_height": 400,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 350D DIGITAL\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS4 Windows\", \"Image DateTime\": \"2018:10:10 20:07:08\", \"Image Artist\": \"unknown\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"850\", \"Thumbnail JPEGInterchangeFormatLength\": \"5200\", \"EXIF ExposureTime\": \"13/10\", \"EXIF FNumber\": \"71/10\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:05:07 15:45:47\", \"EXIF DateTimeDigitized\": \"2018:05:07 15:45:47\", \"EXIF ShutterSpeedValue\": \"-23657/62500\", \"EXIF ApertureValue\": \"2827819/500000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"139/32\", \"EXIF MeteringMode\": \"Average\", \"EXIF Flash\": \"Flash fired, compulsory flash mode\", \"EXIF FocalLength\": \"64\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2304\", \"EXIF ExifImageLength\": \"2304\", \"EXIF FocalPlaneXResolution\": \"1728000/437\", \"EXIF FocalPlaneYResolution\": \"384000/97\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF CameraOwnerName\": \"unknown\", \"EXIF BodySerialNumber\": \"830523817\", \"EXIF LensSpecification\": \"[35, 80, 0/0, 0/0]\", \"EXIF LensModel\": \"35.0-80.0 mm\"}",
+    "sha256": "a8f76d8abeeeb42907f3a0de129a36209d9557eaa503a6382d07f82dd959c76a"
+}

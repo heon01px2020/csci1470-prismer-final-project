@@ -1,0 +1,13 @@
+{
+    "caption": "the bartender is pouring a drink at the bar",
+    "url": "https://static.spotapps.co/spots/a6/b09f1f7901440c8e84951f1e29b903/full",
+    "key": "000042615",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 800,
+    "original_height": 800,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 6D Mark II\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"GIMP 2.10.12\", \"Image DateTime\": \"2020:01:08 10:24:34\", \"Image ExifOffset\": \"188\", \"Thumbnail ImageWidth\": \"192\", \"Thumbnail ImageLength\": \"256\", \"Thumbnail BitsPerSample\": \"[8, 8, 8]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail PhotometricInterpretation\": \"6\", \"Thumbnail SamplesPerPixel\": \"3\", \"Thumbnail JPEGInterchangeFormat\": \"860\", \"Thumbnail JPEGInterchangeFormatLength\": \"8064\", \"EXIF ExposureTime\": \"1/125\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"4000\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"4000\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:12:30 17:51:31\", \"EXIF DateTimeDigitized\": \"2019:12:30 17:51:31\", \"EXIF ShutterSpeedValue\": \"870723/125000\", \"EXIF ApertureValue\": \"847997/500000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"1\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"35\", \"EXIF SubSecTimeOriginal\": \"62\", \"EXIF SubSecTimeDigitized\": \"62\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF FocalPlaneXResolution\": \"56907257/32768\", \"EXIF FocalPlaneYResolution\": \"56907257/32768\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"052051003218\", \"EXIF LensSpecification\": \"[35, 35, 0/0, 0/0]\", \"EXIF LensModel\": \"35mm F1.4 DG HSM | Art 012\", \"EXIF LensSerialNumber\": \"0000000000\"}",
+    "sha256": "26ddf5d8b135f150df2d61346d961abaa28bfbe5b978946ea58810d2f9fb8191"
+}

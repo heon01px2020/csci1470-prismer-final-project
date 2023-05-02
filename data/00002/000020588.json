@@ -1,0 +1,13 @@
+{
+    "caption": "a screenshot of an emote sticker",
+    "url": "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/2f/1a/0d/2f1a0de5-e394-133e-b5ae-d3fb892067cb/source/552x414bb.jpg",
+    "key": "000020588",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 552,
+    "original_height": 414,
+    "exif": "{\"Image ExifOffset\": \"26\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"552\", \"EXIF ExifImageLength\": \"414\"}",
+    "sha256": "1fdce59a38ae8a88f1863661713a16970e3d3b35bf56f7419fc37a431c31a936"
+}

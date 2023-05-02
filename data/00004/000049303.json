@@ -1,0 +1,13 @@
+{
+    "caption": "a man in a cowboy hat playing a guitar",
+    "url": "https://i1.wp.com/chasingguitars.com/wp-content/uploads/2016/05/bill.jpg?resize=630%2C488",
+    "key": "000049303",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 630,
+    "original_height": 488,
+    "exif": "{\"Image ImageWidth\": \"2100\", \"Image ImageLength\": \"1678\", \"Image BitsPerSample\": \"8\", \"Image Compression\": \"Uncompressed\", \"Image PhotometricInterpretation\": \"1\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"1\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS Windows\", \"Image DateTime\": \"2011:09:07 14:24:33\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"374\", \"Thumbnail JPEGInterchangeFormatLength\": \"8173\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"630\", \"EXIF ExifImageLength\": \"488\"}",
+    "sha256": "32f71d396e2ca9e89509c534831b3fc7d8a546340b3890bf01a5050ab7be367c"
+}

@@ -1,0 +1,13 @@
+{
+    "caption": "a box of silverware",
+    "url": "https://cdn.globalauctionplatform.com/30d401d5-5a9b-4ab7-a90f-a8b9008b5fdd/efcde98a-b3d3-4be5-e59a-23a18a9e724c/original.jpg",
+    "key": "000009378",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1000,
+    "original_height": 614,
+    "exif": "{\"Image ImageWidth\": \"1000\", \"Image ImageLength\": \"614\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2018 (Windows)\", \"Image DateTime\": \"2018:04:10 16:57:46\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"386\", \"Thumbnail JPEGInterchangeFormatLength\": \"6819\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1000\", \"EXIF ExifImageLength\": \"614\"}",
+    "sha256": "b34ae89106f2f04ec7e54d613ea5f7ffdd3208d126ecc4483c65b6b81ce1f47b"
+}

@@ -1,0 +1,13 @@
+{
+    "caption": "different photos of art work done by artists",
+    "url": "https://apopheniainc.files.wordpress.com/2013/03/0-0-drawing-in-the-session-s-001.jpg",
+    "key": "000009222",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1090,
+    "original_height": 763,
+    "exif": "{\"Image ImageWidth\": \"600\", \"Image ImageLength\": \"1003\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Macintosh)\", \"Image DateTime\": \"2013:03:27 10:35:23\", \"Image ExifOffset\": \"232\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"382\", \"Thumbnail JPEGInterchangeFormatLength\": \"9071\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1090\", \"EXIF ExifImageLength\": \"763\"}",
+    "sha256": "e1604d2a889b9d9811581fec4d5f5367f93dd43898849922336576a84698da8d"
+}

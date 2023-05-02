@@ -1,0 +1,13 @@
+{
+    "caption": "the person in the foreground is herding the cows",
+    "url": "https://media.npr.org/assets/img/2010/04/16/island_vul_571265_slide-2a03a72129bb87ddbb02d73e0f29c630233fa550-s800-c15.jpg",
+    "key": "000029071",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 800,
+    "original_height": 532,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"52\", \"Image YResolution\": \"52\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS2 Windows\", \"Image DateTime\": \"2010:04:17 19:33:38\", \"Image ExifOffset\": \"162\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"999\", \"EXIF ExifImageLength\": \"665\"}",
+    "sha256": "c4dba1a44a9df7d21bc919e56d8f8b1cddc0944622bc8c06a9abd4714ee0f8f1"
+}

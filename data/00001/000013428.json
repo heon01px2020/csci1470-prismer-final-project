@@ -1,0 +1,13 @@
+{
+    "caption": "the castle themed bedroom",
+    "url": "https://cdn.newsday.com/polopoly_fs/1.12151822.1493912750!/httpImage/image.jpg_gen/derivatives/display_960/image.jpg",
+    "key": "000013428",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 960,
+    "original_height": 640,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"960\", \"EXIF ExifImageLength\": \"640\"}",
+    "sha256": "5b54b179df444bdb87bc4d6a1c1243a5caf4e05820f9207ec64c4b7711b70098"
+}

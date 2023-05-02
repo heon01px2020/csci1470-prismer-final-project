@@ -1,0 +1,1 @@
+the lines in front of the cube are drawn using point and line algorithm

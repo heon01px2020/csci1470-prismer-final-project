@@ -1,0 +1,13 @@
+{
+    "caption": "a pair of shoes sitting on top of a table",
+    "url": "https://georgeloines.com/sites/default/files/path-tracer-spheres.jpg",
+    "key": "000010239",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1280,
+    "original_height": 600,
+    "exif": "{\"Image ImageWidth\": \"1200\", \"Image ImageLength\": \"900\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"144\", \"Image YResolution\": \"144\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC (Macintosh)\", \"Image DateTime\": \"2018:01:11 19:21:24\", \"Image ExifOffset\": \"232\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"382\", \"Thumbnail JPEGInterchangeFormatLength\": \"2054\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1280\", \"EXIF ExifImageLength\": \"600\"}",
+    "sha256": "88877c8f9891a68238dcfa4c03ae46e78f643d59caedd09e8e4969526ff2a24e"
+}

@@ -1,0 +1,13 @@
+{
+    "caption": "a book with a handwritten number on it and some numbers",
+    "url": "https://d2vlcm61l7u1fs.cloudfront.net/media%2Fd20%2Fd2087904-0266-4713-ad64-71026d31c528%2Fimage",
+    "key": "000008554",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 525,
+    "original_height": 700,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image ExifOffset\": \"38\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"525\", \"EXIF ExifImageLength\": \"700\"}",
+    "sha256": "6e639abc3fef2c19810ac85296696ef1621b4f3723aefee1424859bafb776d00"
+}

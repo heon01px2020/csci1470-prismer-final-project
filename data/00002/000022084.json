@@ -1,0 +1,13 @@
+{
+    "caption": "a large pine tree growing in the middle of a forest",
+    "url": "https://doerun.com/wp-content/uploads/2018/08/Doe_Run-Land_Management-IMG_3831C-1.jpg",
+    "key": "000022084",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 740,
+    "original_height": 416,
+    "exif": "{\"Image ImageWidth\": \"2912\", \"Image ImageLength\": \"4368\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image ImageDescription\": \"Doe Run expands our mining through mineral exploration, research and development related to base minerals.\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2018 (Macintosh)\", \"Image DateTime\": \"2018:08:01 13:58:54\", \"Image Artist\": \"Randall Hyman\", \"Image ExifOffset\": \"300\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"926\", \"Thumbnail JPEGInterchangeFormatLength\": \"8835\", \"EXIF ExposureTime\": \"1/125\", \"EXIF FNumber\": \"8\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:04:12 10:08:41\", \"EXIF DateTimeDigitized\": \"2011:04:12 10:08:41\", \"EXIF ShutterSpeedValue\": \"870723/125000\", \"EXIF ApertureValue\": \"6\", \"EXIF ExposureBiasValue\": \"-2/3\", \"EXIF MaxApertureValue\": \"4\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"38\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"740\", \"EXIF ExifImageLength\": \"416\", \"EXIF FocalPlaneXResolution\": \"873600/283\", \"EXIF FocalPlaneYResolution\": \"1456000/471\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF CameraOwnerName\": \"Randall Hyman\", \"EXIF BodySerialNumber\": \"720503826\", \"EXIF LensSpecification\": \"[17, 40, 0/0, 0/0]\", \"EXIF LensModel\": \"EF17-40mm f/4L USM\"}",
+    "sha256": "2c7fab4197c5c61f11a358131b038b3565c5103021135b36973bb1e7498179d3"
+}

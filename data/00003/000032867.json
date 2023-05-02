@@ -1,0 +1,13 @@
+{
+    "caption": "a painting of a girl on a bicycle in front of a couple, and a man walking by,",
+    "url": "https://cdn.shopify.com/s/files/1/0053/1280/7030/products/1185658_480x480.jpg?v=1542317169",
+    "key": "000032867",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 478,
+    "original_height": 480,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"478\", \"EXIF ExifImageLength\": \"480\"}",
+    "sha256": "dd79e93d1cb2cd27a172117d630a729af1c73ef0bd4a827a30c32fcff6646082"
+}

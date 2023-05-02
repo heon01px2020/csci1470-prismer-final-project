@@ -1,0 +1,13 @@
+{
+    "caption": "a dirt road leading through the city to the beach",
+    "url": "http://world-adventurer.com/wp-content/uploads/2015/11/Yaounde-Chad-Embassy-1024x768.jpg",
+    "key": "000030440",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1024,
+    "original_height": 768,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 6\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"iPhoto 9.6.1\", \"Image DateTime\": \"2015:11:16 11:01:49\", \"Image ExifOffset\": \"188\", \"EXIF ExposureTime\": \"1/1319\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"32\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:11:16 11:01:49\", \"EXIF DateTimeDigitized\": \"2015:11:16 11:01:49\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"26090/2517\", \"EXIF ApertureValue\": \"7801/3429\", \"EXIF BrightnessValue\": \"8045/873\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"83/20\", \"EXIF SubjectArea\": \"[1631, 1223, 1795, 1077]\", \"EXIF SubSecTimeOriginal\": \"527\", \"EXIF SubSecTimeDigitized\": \"527\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1280\", \"EXIF ExifImageLength\": \"960\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"29\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[83/20, 83/20, 11/5, 11/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 6 back camera 4.15mm f/2.2\"}",
+    "sha256": "d99d9c872b94b604f12968b3f70977f4ca5dc949d98283e1066dde8b5422efce"
+}

@@ -1,0 +1,13 @@
+{
+    "caption": "a beach with palm trees in the background",
+    "url": "https://res.cloudinary.com/sydzilla/image/upload/v1515614607/IMG_1779_jg04ip.jpg",
+    "key": "000029879",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 3264,
+    "original_height": 2448,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot A720 IS\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"180\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2016:11:26 09:56:20\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"196\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"180\", \"Thumbnail YResolution\": \"180\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"5108\", \"Thumbnail JPEGInterchangeFormatLength\": \"5109\", \"EXIF ExposureTime\": \"1/640\", \"EXIF FNumber\": \"4\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:11:26 09:56:20\", \"EXIF DateTimeDigitized\": \"2016:11:26 09:56:20\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"5\", \"EXIF ShutterSpeedValue\": \"149/16\", \"EXIF ApertureValue\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"95/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"29/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3264\", \"EXIF ExifImageLength\": \"2448\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"3264\", \"Interoperability RelatedImageLength\": \"2448\", \"EXIF InteroperabilityOffset\": \"3362\", \"EXIF FocalPlaneXResolution\": \"43520/3\", \"EXIF FocalPlaneYResolution\": \"2448000/169\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "9518be7aea7502e54c76d3865ee7f7f061c331102926213df2b1525add7f42e5"
+}

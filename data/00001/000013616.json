@@ -1,0 +1,13 @@
+{
+    "caption": "a large black spider on the back of a white wall",
+    "url": "http://www.fwnp.com/black-jumping-spider.jpg",
+    "key": "000013616",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 592,
+    "original_height": 400,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"NIKON\", \"Image Model\": \"E995\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"E995v1.7\", \"Image DateTime\": \"2005:04:27 10:04:50\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"216\", \"Image GPSInfo\": \"692\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"1\", \"Thumbnail YResolution\": \"16781328/665167015\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1270\", \"Thumbnail JPEGInterchangeFormatLength\": \"2892\", \"EXIF ExposureTime\": \"79051/10000000\", \"EXIF FNumber\": \"9/2\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2005:04:27 10:04:50\", \"EXIF DateTimeDigitized\": \"2005:04:27 10:04:50\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"14/5\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash fired\", \"EXIF FocalLength\": \"126/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2048\", \"EXIF ExifImageLength\": \"1536\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\"}",
+    "sha256": "db3921999dbf431ad43140a0204a98aead3382dec584cc596d2fb78c9e37f62a"
+}

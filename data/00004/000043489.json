@@ -1,0 +1,13 @@
+{
+    "caption": "an illuminated manuscript, written in arabic",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Large_Koran.jpg/520px-Large_Koran.jpg",
+    "key": "000043489",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 520,
+    "original_height": 821,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Copyright. Freer|Sackler Gallery of Art\"}",
+    "sha256": "20269843f5325763a3b6c73a85bcd4f3b56fd0aee78f3a1e462ff0afaca24a6b"
+}

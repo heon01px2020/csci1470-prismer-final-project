@@ -1,0 +1,13 @@
+{
+    "caption": "a group of young monks sitting in a row around a candle lit altar",
+    "url": "http://escapology.eu/wp-content/uploads/2014/01/hsipaw-village-32.jpg",
+    "key": "000000174",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 700,
+    "original_height": 452,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D700\", \"Image XResolution\": \"320\", \"Image YResolution\": \"320\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 4.4 (Windows)\", \"Image DateTime\": \"2013:12:30 18:38:07\", \"Image Copyright\": \"Philipp Dukatz\", \"Image ExifOffset\": \"244\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"930\", \"Thumbnail JPEGInterchangeFormatLength\": \"9549\", \"EXIF ExposureTime\": \"1/40\", \"EXIF FNumber\": \"7/5\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"1250\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:09:22 15:46:11\", \"EXIF DateTimeDigitized\": \"2013:09:22 15:46:11\", \"EXIF ShutterSpeedValue\": \"665241/125000\", \"EXIF ApertureValue\": \"485427/500000\", \"EXIF ExposureBiasValue\": \"2/3\", \"EXIF MaxApertureValue\": \"1\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"50\", \"EXIF SubSecTimeOriginal\": \"81\", \"EXIF SubSecTimeDigitized\": \"81\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CVAPattern\": \"[0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"50\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"High gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"2252176\", \"EXIF LensSpecification\": \"[50, 50, 7/5, 7/5]\", \"EXIF LensModel\": \"50.0 mm f/1.4\"}",
+    "sha256": "6c09fd23f698e8b14bd979636c5570a806cd608ad1762c5628c3cc2d91cc8779"
+}

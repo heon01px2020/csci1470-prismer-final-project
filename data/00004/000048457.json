@@ -1,0 +1,13 @@
+{
+    "caption": "the floral design box",
+    "url": "https://images1.novica.net/pictures/7/p349701_2_400.jpg",
+    "key": "000048457",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 400,
+    "original_height": 400,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifVersion\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"400\", \"EXIF ExifImageLength\": \"400\"}",
+    "sha256": "903a12e8481e253b30599a49b174535b2add6ccdc3761ca492b2ba03cff18860"
+}

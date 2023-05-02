@@ -1,0 +1,13 @@
+{
+    "caption": "a woman in a hospital bed talking to a nurse",
+    "url": "https://img.srgcdn.com/e//VUVCVUVqWFBuTmtwRjBYVUY3M3EuanBn.jpg",
+    "key": "000008828",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 589,
+    "original_height": 573,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"589\", \"EXIF ExifImageLength\": \"573\"}",
+    "sha256": "c7f655c0f289b830da841790ac0cd2280c6b29cafd2d03929862d0e46849e74e"
+}

@@ -1,0 +1,13 @@
+{
+    "caption": "the front facade of person's cottage",
+    "url": "https://www.adventuress-travel-magazine.com/images/TheCottage.jpg",
+    "key": "000009565",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 864,
+    "original_height": 552,
+    "exif": "{\"Image ImageWidth\": \"4000\", \"Image ImageLength\": \"3000\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Make\": \"SONY\", \"Image Model\": \"DSC-W310\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Elements 12.0 Macintosh\", \"Image DateTime\": \"2017:12:14 07:14:28\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\", \"Image ExifOffset\": \"332\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"930\", \"Thumbnail JPEGInterchangeFormatLength\": \"7442\", \"EXIF ExposureTime\": \"1/250\", \"EXIF FNumber\": \"43/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:10:21 15:41:13\", \"EXIF DateTimeDigitized\": \"2017:10:21 15:41:13\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"3\", \"EXIF ShutterSpeedValue\": \"995723/125000\", \"EXIF ApertureValue\": \"4208673/1000000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"55/16\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"26/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"864\", \"EXIF ExifImageLength\": \"552\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"804\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "322caa78b43a0d85ca2e840a2465416a6039ef3fce7b0a9d0243757813fa5152"
+}

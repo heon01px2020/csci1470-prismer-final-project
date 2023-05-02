@@ -1,0 +1,13 @@
+{
+    "caption": "a row of four pencils",
+    "url": "https://i2.wp.com/penpaperpencil.net/wp-content/uploads/2016/01/Drawing-pencils-guide.jpg",
+    "key": "000019282",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 900,
+    "original_height": 490,
+    "exif": "{\"Image Make\": \"Panasonic\", \"Image Model\": \"DMC-FZ28\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"180\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Pixelmator 3.4.2\", \"Image DateTime\": \"2015:12:22 08:12:45\", \"Image ExifOffset\": \"196\", \"EXIF ExposureTime\": \"1/50\", \"EXIF FNumber\": \"14/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:12:13 09:35:05\", \"EXIF DateTimeDigitized\": \"2015:12:13 09:35:05\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"24/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"900\", \"EXIF ExifImageLength\": \"490\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"27\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "bf663d1ceac0a2bb573365f6ea730569c2e7b17ef64a02d69066c71198dd14a6"
+}

@@ -1,0 +1,13 @@
+{
+    "caption": "a photographer taking a photo in the studio",
+    "url": "https://i0.wp.com/farm9.staticflickr.com/8148/7445982330_889b35d943_o.jpg?resize=900%2C600",
+    "key": "000048235",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 900,
+    "original_height": 600,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D Mark III\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 4.1 (Macintosh)\", \"Image DateTime\": \"2012:06:26 02:08:42\", \"Image Artist\": \"Zachary Long FengLongPhoto.com\", \"Image Copyright\": \"Zachary Long FengLongPhoto.com\", \"Image ExifOffset\": \"304\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"940\", \"Thumbnail JPEGInterchangeFormatLength\": \"13549\", \"EXIF ExposureTime\": \"1/160\", \"EXIF FNumber\": \"6/5\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"800\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"800\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2012:10:17 09:31:18\", \"EXIF DateTimeDigitized\": \"2012:10:17 09:31:18\", \"EXIF ShutterSpeedValue\": \"915241/125000\", \"EXIF ApertureValue\": \"526069/1000000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"5/8\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"50\", \"EXIF SubSecTimeOriginal\": \"40\", \"EXIF SubSecTimeDigitized\": \"40\", \"EXIF FocalPlaneXResolution\": \"160\", \"EXIF FocalPlaneYResolution\": \"160\", \"EXIF FocalPlaneResolutionUnit\": \"4\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"042033005129\", \"EXIF LensSpecification\": \"[50, 50, 0/0, 0/0]\", \"EXIF LensModel\": \"EF50mm f/1.2L USM\", \"EXIF LensSerialNumber\": \"0000417dde\"}",
+    "sha256": "3f9c6d2c45e69cae1e30298704aae871b7903adcbdeb9e1b984ce11773e77f75"
+}

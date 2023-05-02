@@ -1,0 +1,13 @@
+{
+    "caption": "a cat sitting on the ground next to some bushes",
+    "url": "https://cdn.newsapi.com.au/image/v1/8cef78f778c3d197ac420b86d30c6b87?width=650",
+    "key": "000030776",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 650,
+    "original_height": 488,
+    "exif": "{}",
+    "sha256": "3700ccd8d309bade25e87feb0108ff694a26333852742600cc9da53039bc4a78"
+}

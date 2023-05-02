@@ -1,0 +1,13 @@
+{
+    "caption": "an old trailer is parked outside of a house",
+    "url": "https://www.oldtrailer.com/Images/vintage-trailer-junkyard-60.jpg",
+    "key": "000030270",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 705,
+    "original_height": 469,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D50\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Ver.1.00\", \"Image DateTime\": \"2013:03:25 15:02:22\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"2280\", \"Image Padding\": \"[]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"300\", \"Thumbnail YResolution\": \"300\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"35118\", \"Thumbnail JPEGInterchangeFormatLength\": \"8516\", \"Thumbnail YCbCrPositioning\": \"Co-sited\", \"EXIF ExposureTime\": \"1/60\", \"EXIF FNumber\": \"25\", \"EXIF ExposureProgram\": \"Shutter Priority\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:03:25 15:02:22\", \"EXIF DateTimeDigitized\": \"2013:03:25 15:02:22\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"1\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"5\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"55\", \"EXIF SubSecTime\": \"30\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1504\", \"EXIF ExifImageLength\": \"1000\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"34976\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CVAPattern\": \"[0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"82\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF Padding\": \"[]\", \"EXIF OffsetSchema\": \"4086\"}",
+    "sha256": "e61a05e23ef1a6f04f3142781757e45773810193754f799c042596208fe7fd54"
+}

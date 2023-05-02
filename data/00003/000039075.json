@@ -1,0 +1,13 @@
+{
+    "caption": "a woman stands against a wall in a blue dyed t shirt",
+    "url": "https://static1.squarespace.com/static/525832f2e4b0d20cb019243f/58ef27601e5b6c95574c3a87/5973b3ed17bffc066d097e64/1540712213432/20ABE638-74E6-4338-8160-9DF886895ABE.jpg?format=500w",
+    "key": "000039075",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 500,
+    "original_height": 750,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 6\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Photos 1.0.1\", \"Image DateTime\": \"2017:07:01 11:28:50\", \"Image Copyright\": \"Copyright 2017. All rights reserved.\", \"Image ExifOffset\": \"238\", \"EXIF ExposureTime\": \"1/120\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:07:01 11:28:50\", \"EXIF DateTimeDigitized\": \"2017:07:01 11:28:50\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"2653/384\", \"EXIF ApertureValue\": \"7801/3429\", \"EXIF BrightnessValue\": \"12241/2292\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"83/20\", \"EXIF SubjectArea\": \"[1504, 1203, 1795, 1077]\", \"EXIF SubSecTimeOriginal\": \"455\", \"EXIF SubSecTimeDigitized\": \"455\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1659\", \"EXIF ExifImageLength\": \"2488\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"29\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[83/20, 83/20, 11/5, 11/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 6 back camera 4.15mm f/2.2\"}",
+    "sha256": "7ff59f07af709155423e9d6c6c1d4b61e98f4ae58262655fea4e66b663c99943"
+}

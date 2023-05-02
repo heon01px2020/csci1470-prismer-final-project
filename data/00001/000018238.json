@@ -1,0 +1,13 @@
+{
+    "caption": "the screenshot of the game meme",
+    "url": "https://is2-ssl.mzstatic.com/image/thumb/Purple127/v4/cc/48/83/cc488386-b737-f39e-3c1f-07e38ce60ad9/pr_source.png/750x750bb.jpeg",
+    "key": "000018238",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 422,
+    "original_height": 750,
+    "exif": "{\"Image ExifOffset\": \"26\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"422\", \"EXIF ExifImageLength\": \"750\"}",
+    "sha256": "c5cfce05ae387b5b3f6256c5d00be7cf8ab98da08a501be48840996d40257878"
+}

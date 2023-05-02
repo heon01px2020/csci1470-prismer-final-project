@@ -1,0 +1,13 @@
+{
+    "caption": "a map showing the different parts of the earth",
+    "url": "https://www.pgs.com/globalassets/about-us/locations/pgs-aboutus-locations-eame.jpg?width=750&quality=90",
+    "key": "000009524",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 750,
+    "original_height": 422,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image Software\": \"Adobe Photoshop CC 2014 (Windows)\", \"Image DateTime\": \"2016:04:04 09:12:21\", \"Image ExifOffset\": \"208\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"860\", \"EXIF ExifImageLength\": \"484\"}",
+    "sha256": "e2938ae0d3d9c0a80c3846d3c36f3388807a890c26d5ba6121c75fe8a72b606c"
+}

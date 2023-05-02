@@ -1,0 +1,13 @@
+{
+    "caption": "a gold tray with a brass tray underneath it",
+    "url": "https://images.skinnerinc.com/full/171/845171.jpg",
+    "key": "000001984",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 700,
+    "original_height": 561,
+    "exif": "{\"Image Make\": \"NIKON\", \"Image Model\": \"COOLPIX L100\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Watermark Factory 2.53\", \"Image DateTime\": \"2010:02:05 16:33:02\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"220\", \"EXIF ExposureTime\": \"1/9\", \"EXIF FNumber\": \"19/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"431\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2010:02:04 10:13:10\", \"EXIF DateTimeDigitized\": \"2010:02:04 10:13:10\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"2\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"18/5\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Cool white fluorescent (W 3900 - 4500K)\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"73/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"700\", \"EXIF ExifImageLength\": \"561\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"41\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"High gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF ImageUniqueID\": \"9c1beb6e0a27612771dc89b2cc5be8b1\"}",
+    "sha256": "825fa02df1041d8d71f84f56f2391e63ba3ea77deae4d58326bac0dedaee438b"
+}

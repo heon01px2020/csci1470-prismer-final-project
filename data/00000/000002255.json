@@ -1,0 +1,13 @@
+{
+    "caption": "a black leather jacket is hanging on a white wall",
+    "url": "https://cdn.shopify.com/s/files/1/1448/0624/products/MamaLeatherJkt_1_2048x.jpg?v=1478670093",
+    "key": "000002255",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1500,
+    "original_height": 1000,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1500\", \"EXIF ExifImageLength\": \"1000\"}",
+    "sha256": "a2b0880ebe4a261fea469c8f78e3171333f85cb722b0e4a8071838cd8becb293"
+}

@@ -1,0 +1,13 @@
+{
+    "caption": "a book on movable books",
+    "url": "https://www.georgejefferybooks.com/assets/images/product/096957_6f29b19dcf82c2da441190f2f6bec19e.jpg",
+    "key": "000007443",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1019,
+    "original_height": 922,
+    "exif": "{\"Image Tag 0x000B\": \"Windows Photo Editor 10.0.10011.16384\", \"Image Make\": \"FUJIFILM\", \"Image Model\": \"FinePix A610\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Windows Photo Editor 10.0.10011.16384\", \"Image DateTime\": \"2017:04:13 14:30:43\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image Copyright\": \"\", \"Image ExifOffset\": \"2386\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\", \"Image Padding\": \"[]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"96\", \"Thumbnail YResolution\": \"96\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"5520\", \"Thumbnail JPEGInterchangeFormatLength\": \"11598\", \"EXIF ExposureTime\": \"1/60\", \"EXIF FNumber\": \"3\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:01:06 01:23:15\", \"EXIF DateTimeDigitized\": \"2017:01:06 01:23:15\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"13/5\", \"EXIF ShutterSpeedValue\": \"6\", \"EXIF ApertureValue\": \"16/5\", \"EXIF BrightnessValue\": \"-1/5\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"16/5\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash fired, auto mode\", \"EXIF FocalLength\": \"33/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1600\", \"EXIF ExifImageLength\": \"1200\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"5362\", \"EXIF FocalPlaneXResolution\": \"2726\", \"EXIF FocalPlaneYResolution\": \"2726\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF Padding\": \"[]\", \"EXIF OffsetSchema\": \"4160\"}",
+    "sha256": "7383e68afd37a1167d33dd440ead2ccab9fac63667a467d099395e24a96d7b86"
+}

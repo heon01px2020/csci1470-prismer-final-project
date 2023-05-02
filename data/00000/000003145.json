@@ -1,0 +1,13 @@
+{
+    "caption": "a tray with food on top of it",
+    "url": "https://labri.co.nz/wp-content/uploads/2015/06/image.jpeg",
+    "key": "000003145",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 960,
+    "original_height": 720,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPad 2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"7.1.2\", \"Image DateTime\": \"2015:05:29 11:50:25\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"202\", \"GPS GPSLatitudeRef\": \"S\", \"GPS GPSLatitude\": \"[43, 47, 1/100]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[172, 58, 507/50]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"37\", \"GPS GPSTimeStamp\": \"[23, 49, 1773/50]\", \"GPS GPSImgDirectionRef\": \"T\", \"GPS GPSImgDirection\": \"24256/83\", \"Image GPSInfo\": \"922\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1218\", \"Thumbnail JPEGInterchangeFormatLength\": \"11686\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"64\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:05:29 11:50:25\", \"EXIF DateTimeDigitized\": \"2015:05:29 11:50:25\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"6325/1289\", \"EXIF ApertureValue\": \"4845/1918\", \"EXIF BrightnessValue\": \"9015/2432\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"No flash function\", \"EXIF FocalLength\": \"203/100\", \"EXIF SubSecTimeOriginal\": \"010\", \"EXIF SubSecTimeDigitized\": \"010\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"960\", \"EXIF ExifImageLength\": \"720\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"44\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[203/100, 203/100, 12/5, 12/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPad 2 back camera 2.03mm f/2.4\"}",
+    "sha256": "edb9f568b555e6e67737f30e1364842c9d9bfb49c1eae427a23ba7286566335d"
+}

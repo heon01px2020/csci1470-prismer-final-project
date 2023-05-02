@@ -1,0 +1,13 @@
+{
+    "caption": "a view of saturn, the moon and the horizon",
+    "url": "https://eoimages.gsfc.nasa.gov/images/imagerecords/145000/145213/iss059e075342_th.jpg",
+    "key": "000018797",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 720,
+    "original_height": 480,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D5\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2017 (Macintosh)\", \"Image DateTime\": \"2019:06:21 08:32:51\", \"Image ExifOffset\": \"224\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1058\", \"Thumbnail JPEGInterchangeFormatLength\": \"2060\", \"EXIF ExposureTime\": \"1/40\", \"EXIF FNumber\": \"24/5\", \"EXIF ExposureProgram\": \"Shutter Priority\", \"EXIF ISOSpeedRatings\": \"32000\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"32000\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:05:25 18:49:18\", \"EXIF DateTimeDigitized\": \"2019:05:25 18:49:18\", \"EXIF ShutterSpeedValue\": \"665241/125000\", \"EXIF ApertureValue\": \"4526069/1000000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"9/2\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"58\", \"EXIF SubSecTime\": \"16\", \"EXIF SubSecTimeOriginal\": \"16\", \"EXIF SubSecTimeDigitized\": \"16\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"720\", \"EXIF ExifImageLength\": \"480\", \"EXIF FocalPlaneXResolution\": \"50857775/32768\", \"EXIF FocalPlaneYResolution\": \"50857775/32768\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CVAPattern\": \"[0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF CustomRendered\": \"Custom\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"58\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"High gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"3502516\", \"EXIF LensSpecification\": \"[50, 500, 9/2, 63/10]\", \"EXIF LensModel\": \"50.0-500.0 mm f/4.5-6.3\"}",
+    "sha256": "37530538dc7438b846e21f2ed65b6500345029c22e04579e93676fd68173c973"
+}

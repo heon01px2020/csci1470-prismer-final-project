@@ -1,0 +1,13 @@
+{
+    "caption": "a white building with a large green canopy",
+    "url": "https://bdn-data.s3.amazonaws.com/uploads/2019/04/10827761_H24264005-720x445.jpg",
+    "key": "000032278",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 720,
+    "original_height": 445,
+    "exif": "{\"Image ImageDescription\": \"OGUNQUIT, Maine -- Jan. 10, 2019 -- The Ogunquit Playhouse, seen here in a submitted York County Coast Star file photo, would retain its iconic front lawn and look if allowed to undergo a project to renovate and expand. (File | York County Coast Star)\", \"Image Artist\": \"File\", \"Image Copyright\": \"\"}",
+    "sha256": "e174c36f521d7e915f3a8ccd168567c95d6d4666095f666191fa1663ddac9ca9"
+}

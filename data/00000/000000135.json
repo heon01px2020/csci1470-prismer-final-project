@@ -1,0 +1,13 @@
+{
+    "caption": "a tunnel in the train graveyard in baltimore",
+    "url": "http://ravenwing93.co.uk/28dl/richmondtunnel0113/_DSC0033.jpg",
+    "key": "000000135",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 800,
+    "original_height": 533,
+    "exif": "{\"Image ImageWidth\": \"4608\", \"Image ImageLength\": \"3072\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D3100\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5.1 Windows\", \"Image DateTime\": \"2013:01:14 19:21:13\", \"Image ExifOffset\": \"284\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1026\", \"Thumbnail JPEGInterchangeFormatLength\": \"9425\", \"EXIF ExposureTime\": \"15\", \"EXIF FNumber\": \"9\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:01:13 01:21:58\", \"EXIF DateTimeDigitized\": \"2013:01:13 01:21:58\", \"EXIF ShutterSpeedValue\": \"-3906891/1000000\", \"EXIF ApertureValue\": \"126797/20000\", \"EXIF ExposureBiasValue\": \"-3\", \"EXIF MaxApertureValue\": \"3\", \"EXIF SubjectDistance\": \"4294967295\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"21/2\", \"EXIF SubSecTimeOriginal\": \"80\", \"EXIF SubSecTimeDigitized\": \"80\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"533\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CVAPattern\": \"[0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"15\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"6694821\", \"EXIF LensSpecification\": \"[21/2, 21/2, 14/5, 14/5]\", \"EXIF LensModel\": \"10.5 mm f/2.8\"}",
+    "sha256": "d344732c43189bc93561ed28d3d881c443a99de89064f5d4c7da9e30cb314e66"
+}

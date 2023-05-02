@@ -1,0 +1,13 @@
+{
+    "caption": "the painting is shown in a church",
+    "url": "https://www.wmf.org/sites/default/files/styles/project_gallery_thumbnail/public/projects/gallery/PER_Canincunca_JPEG_img-05.jpg?itok=I0mDMYgi",
+    "key": "000043199",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 625,
+    "original_height": 469,
+    "exif": "{\"Image ImageWidth\": \"4122\", \"Image ImageLength\": \"3091\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image Compression\": \"Uncompressed\", \"Image PhotometricInterpretation\": \"2\", \"Image ImageDescription\": \"Country: Peru\\nSite: Kaninkunca\\nCaption: Mural painting detail\\nImage Date: April 2012\\nPhotographer: Norma Barbacci/World Monuments Fund\\nProvenance: Site Visit\\nOriginal: from CD PER105\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot G10\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image PlanarConfiguration\": \"1\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2015 (Macintosh)\", \"Image DateTime\": \"2015:09:04 16:10:21\", \"Image ExifOffset\": \"508\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"300\", \"Thumbnail YResolution\": \"300\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1362\", \"Thumbnail JPEGInterchangeFormatLength\": \"8972\", \"EXIF ExposureTime\": \"1/60\", \"EXIF FNumber\": \"14/5\", \"EXIF ISOSpeedRatings\": \"250\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2012:04:17 19:05:22\", \"EXIF DateTimeDigitized\": \"2012:04:17 19:05:22\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"5\", \"EXIF ShutterSpeedValue\": \"23917/4049\", \"EXIF ApertureValue\": \"24361/8200\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"24361/8200\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash fired, auto mode, red-eye reduction mode\", \"EXIF FocalLength\": \"61/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1920\", \"EXIF ExifImageLength\": \"1440\", \"EXIF FocalPlaneXResolution\": \"1104000/73\", \"EXIF FocalPlaneYResolution\": \"1104000/73\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "26e901924dc77fc820835588151a56a88fd7477b01a81bc6c15668fffccd6760"
+}

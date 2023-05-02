@@ -1,0 +1,13 @@
+{
+    "caption": "the cover of jimmy barnes working class boy",
+    "url": "https://i.harperapps.com/hcanz/covers/9781460753415/x400.jpg",
+    "key": "000013313",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 400,
+    "original_height": 614,
+    "exif": "{\"Image ImageWidth\": \"2406\", \"Image ImageLength\": \"3689\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"400\", \"Image YResolution\": \"400\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2015 (Windows)\", \"Image DateTime\": \"2017:06:08 12:20:17\", \"Image ExifOffset\": \"234\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"394\", \"Thumbnail JPEGInterchangeFormatLength\": \"6804\", \"EXIF ExifVersion\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"400\", \"EXIF ExifImageLength\": \"614\"}",
+    "sha256": "48805a8662762d4399393cf1aba91bed95a227d1aaaa4b50bb2c6354f9d78a2b"
+}

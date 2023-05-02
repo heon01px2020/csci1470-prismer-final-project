@@ -1,0 +1,13 @@
+{
+    "caption": "a man riding on a mountain bike",
+    "url": "https://ep1.pinkbike.org/p4pb14435003/p4pb14435003.jpg",
+    "key": "000020284",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 800,
+    "original_height": 534,
+    "exif": "{\"Image Model\": \"NIKON D750\", \"Image XResolution\": \"200\", \"Image YResolution\": \"200\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Photoshelter http://www.photoshelter.com\", \"Image DateTime\": \"2017:02:18 16:27:58\", \"Image Artist\": \"Brian Leddy\", \"Image Copyright\": \"Brian Leddy\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"200\", \"Thumbnail YResolution\": \"200\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"998\", \"Thumbnail JPEGInterchangeFormatLength\": \"18086\", \"EXIF ExposureTime\": \"1/3200\", \"EXIF FNumber\": \"4\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"1000\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:02:18 14:15:17\", \"EXIF DateTimeDigitized\": \"2017:02:18 14:15:17\", \"EXIF ShutterSpeedValue\": \"727741/62500\", \"EXIF ApertureValue\": \"4\", \"EXIF ExposureBiasValue\": \"-1/3\", \"EXIF MaxApertureValue\": \"8/5\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"20\", \"EXIF SubSecTimeOriginal\": \"27\", \"EXIF SubSecTimeDigitized\": \"27\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF FocalPlaneXResolution\": \"54886891/32768\", \"EXIF FocalPlaneYResolution\": \"54886891/32768\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CVAPattern\": \"[0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"20\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"High gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"3016325\", \"EXIF LensSpecification\": \"[20, 20, 9/5, 9/5]\", \"EXIF LensModel\": \"20.0 mm f/1.8\"}",
+    "sha256": "99f51203b8625f9966011df3de4184b9045497be263ebe266aa7356f3ae2755f"
+}

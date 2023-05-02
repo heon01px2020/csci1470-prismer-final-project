@@ -1,0 +1,13 @@
+{
+    "caption": "a medical diagram of leg uldening and its symptoms",
+    "url": "http://www.medicalexhibits.com/obrasky/2015/15260_02X.jpg",
+    "key": "000023056",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 550,
+    "original_height": 425,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2015.5 (Macintosh)\", \"Image DateTime\": \"2017:04:06 10:38:58\", \"Image ExifOffset\": \"172\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"310\", \"Thumbnail JPEGInterchangeFormatLength\": \"8070\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"550\", \"EXIF ExifImageLength\": \"425\"}",
+    "sha256": "07b500bde14a501b057b27d69447c57df500c36f348bc07d337c7fd0d9a160b9"
+}

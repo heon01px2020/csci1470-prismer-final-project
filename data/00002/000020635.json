@@ -1,0 +1,13 @@
+{
+    "caption": "a bowl of mexican chicken tortilla soup with lime, avocado and tortillas",
+    "url": "https://iwillnoteatoysters.com/wp-content/uploads/2015/08/Tortilla_Soup-9-1100x1650.jpg",
+    "key": "000020635",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1100,
+    "original_height": 1650,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 70D\", \"Image XResolution\": \"2000\", \"Image YResolution\": \"2000\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 5.3 (Macintosh)\", \"Image DateTime\": \"2015:08:11 09:43:14\", \"Image ExifOffset\": \"208\", \"EXIF ExposureTime\": \"1/320\", \"EXIF FNumber\": \"14/5\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"2500\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"2500\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:07:01 06:27:45\", \"EXIF DateTimeDigitized\": \"2015:07:01 06:27:45\", \"EXIF ShutterSpeedValue\": \"1040241/125000\", \"EXIF ApertureValue\": \"1485427/500000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"24\", \"EXIF SubSecTimeOriginal\": \"97\", \"EXIF SubSecTimeDigitized\": \"97\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FocalPlaneXResolution\": \"5472000/899\", \"EXIF FocalPlaneYResolution\": \"3648000/599\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"072024017987\", \"EXIF LensSpecification\": \"[24, 24, 0/0, 0/0]\", \"EXIF LensModel\": \"EF-S24mm f/2.8 STM\", \"EXIF LensSerialNumber\": \"0000106069\"}",
+    "sha256": "051b09423cc2839a00927a2289df8c0c81b85e6dfaef68262c4b6b509b2f4fbb"
+}

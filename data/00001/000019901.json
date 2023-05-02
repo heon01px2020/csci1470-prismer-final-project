@@ -1,0 +1,13 @@
+{
+    "caption": "some of the athletes in the softball team",
+    "url": "https://i0.wp.com/uoflcardbook.com/wp-content/uploads/2010/08/boring-sports-collage.jpg",
+    "key": "000019901",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1216,
+    "original_height": 1370,
+    "exif": "{\"Image ImageWidth\": \"7200\", \"Image ImageLength\": \"9600\", \"Image BitsPerSample\": \"[8, 8, 8, 8]\", \"Image Compression\": \"Uncompressed\", \"Image PhotometricInterpretation\": \"5\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"4\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image PlanarConfiguration\": \"1\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS4 Windows\", \"Image DateTime\": \"2010:08:09 14:05:38\", \"Image ExifOffset\": \"256\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"394\", \"Thumbnail JPEGInterchangeFormatLength\": \"9619\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1216\", \"EXIF ExifImageLength\": \"1370\"}",
+    "sha256": "3aada649f9e2c8d72e9bb5372b4f94e96c46a2830b7dec4b33f35d5c2b60830f"
+}

@@ -1,0 +1,13 @@
+{
+    "caption": "the living room is full of furniture and books",
+    "url": "https://i1.wp.com/lissyparker.com/wp-content/uploads/2014/03/Image-13.jpg?resize=480%2C640&ssl=1",
+    "key": "000023588",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 480,
+    "original_height": 640,
+    "exif": "{\"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image ExifOffset\": \"50\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"480\", \"EXIF ExifImageLength\": \"640\"}",
+    "sha256": "c23e30bce46fe1dc685973634aad9119f1ce827229bc100a41e3d945c60a77a0"
+}

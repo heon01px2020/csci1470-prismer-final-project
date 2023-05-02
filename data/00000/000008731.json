@@ -1,0 +1,13 @@
+{
+    "caption": "a hotel room with a large window overlooking the water",
+    "url": "https://www.travelagewest.com/uploadedImages/All_Gateways/Hawaii/Hotel_Reviews/PRINCEWAIKIKI_PHOTO1.jpg?width=768&height=432&scale=both&mode=crop",
+    "key": "000008731",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1280,
+    "original_height": 720,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"150\", \"Image YResolution\": \"150\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Windows)\", \"Image DateTime\": \"2019:03:27 14:14:15\", \"Image ExifOffset\": \"164\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"302\", \"Thumbnail JPEGInterchangeFormatLength\": \"5118\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1280\", \"EXIF ExifImageLength\": \"720\"}",
+    "sha256": "d1ca724b3828b4aeb3309f0972496330219c80eea322f5f63a0584ba4f328e5f"
+}

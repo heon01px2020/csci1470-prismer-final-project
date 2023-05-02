@@ -1,0 +1,13 @@
+{
+    "caption": "a painting of a sunset with trees and sky mural print",
+    "url": "https://www.pictorem.com/uploads/mural/1/mural1_1934.jpg",
+    "key": "000008877",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 906,
+    "original_height": 600,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image Tag 0x0000\": \"0\", \"Image YResolution\": \"400\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"834\"}",
+    "sha256": "7e29e4f18b7229513230ccfabf6c5fcd0ac8762741e8c227c64dfe0ac11ef516"
+}

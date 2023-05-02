@@ -1,0 +1,13 @@
+{
+    "caption": "a cityscape with tall buildings in the foreground and skyscrapers below",
+    "url": "https://image.architonic.com/imgTre/10_17/rothschild_tower.jpg",
+    "key": "000030228",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 560,
+    "original_height": 724,
+    "exif": "{\"Image ImageWidth\": \"2555\", \"Image ImageLength\": \"1914\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image Compression\": \"LZW\", \"Image PhotometricInterpretation\": \"2\", \"Image ImageDescription\": \"[\\u00a9(c)Roland Halbe; Veroeffentlichung nur gegen Honorar, Urhebervermerk und Beleg / Copyrightpermission required for reproduction, Photocredit: Roland Halbe]\", \"Image Make\": \"Leaf\", \"Image Model\": \"Leaf Aptus 75(LF10537    )/Large Format\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image PlanarConfiguration\": \"1\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Elements 8.0 Macintosh\", \"Image DateTime\": \"2017:10:12 18:25:25\", \"Image Artist\": \"Roland Halbe\", \"Image Copyright\": \"Roland Halbe\", \"Image ExifOffset\": \"556\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"738\", \"Thumbnail JPEGInterchangeFormatLength\": \"8581\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF DateTimeOriginal\": \"2016:07:06 16:28:13Z\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"560\", \"EXIF ExifImageLength\": \"724\"}",
+    "sha256": "8e5f7c1c115d1d1ae84c650f493527b24c528139d09e0dccb821fad69e48b801"
+}

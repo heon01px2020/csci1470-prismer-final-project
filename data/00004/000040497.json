@@ -1,0 +1,13 @@
+{
+    "caption": "a woman holding a spoon with a dumpling in it",
+    "url": "https://images.dailyhive.com/20200123132401/57775435_409979616502621_8728534846992792394_n.jpeg",
+    "key": "000040497",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1072,
+    "original_height": 554,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image DateTime\": \"2020:01:23 13:23:26\", \"Image ExifOffset\": \"110\", \"EXIF DateTimeOriginal\": \"2020:01:23 13:23:26\", \"EXIF DateTimeDigitized\": \"2020:01:23 13:23:26\", \"EXIF SubSecTimeOriginal\": \"374\", \"EXIF SubSecTimeDigitized\": \"374\", \"EXIF ExifImageWidth\": \"1072\", \"EXIF ExifImageLength\": \"554\"}",
+    "sha256": "36a49a5114a0edee9275a442a094f1eede031b2b929d6964ea299c5cd48b36c1"
+}

@@ -1,0 +1,13 @@
+{
+    "caption": "a cat sits in front of the fire place at the same time, which is not the best for the",
+    "url": "https://aprileveryday.com/wp-content/uploads/2017/08/2017-08-28-09.06.31_copy.jpg",
+    "key": "000020707",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1000,
+    "original_height": 1333,
+    "exif": "{\"Image Make\": \"samsung\", \"Image Model\": \"SM-G930F\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 6.12 (Windows)\", \"Image DateTime\": \"2017:08:30 19:14:00\", \"Image ExifOffset\": \"206\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"728\", \"Thumbnail JPEGInterchangeFormatLength\": \"13271\", \"EXIF ExposureTime\": \"1/50\", \"EXIF FNumber\": \"17/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:08:28 09:06:31\", \"EXIF DateTimeDigitized\": \"2017:08:28 09:06:31\", \"EXIF ShutterSpeedValue\": \"352741/62500\", \"EXIF ApertureValue\": \"1531069/1000000\", \"EXIF BrightnessValue\": \"217/100\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"153/100\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"21/5\", \"EXIF SubSecTimeOriginal\": \"0943\", \"EXIF SubSecTimeDigitized\": \"0943\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"26\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensModel\": \"Samsung Galaxy S7 Rear Camera\"}",
+    "sha256": "8abf7d4b3ad162112c241ffacb2b7cb5022aaef93c6aa72bbe9387cb708cc18f"
+}

@@ -1,0 +1,13 @@
+{
+    "caption": "a man holding a camera and taking a picture",
+    "url": "https://miro.medium.com/max/3071/0*iWs56Bty3si8drew.jpg",
+    "key": "000011007",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1170,
+    "original_height": 702,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1170\", \"EXIF ExifImageLength\": \"702\"}",
+    "sha256": "d61a9dbd61df66de2d3b5d91b3f8e08f1e3e165eecdbcf8bfc4eaac49fb17c37"
+}

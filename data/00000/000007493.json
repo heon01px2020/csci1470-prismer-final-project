@@ -1,0 +1,13 @@
+{
+    "caption": "a silver volkswagen beetle driving down a road",
+    "url": "https://pictures.topspeed.com/IMG/crop/201503/volkswagen-could-axe_800x0w.jpg",
+    "key": "000007493",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 800,
+    "original_height": 450,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"450\"}",
+    "sha256": "7ad9a3b52087fce170341183f2800fd08789c453b8c1da5db5f059fb6524dddf"
+}

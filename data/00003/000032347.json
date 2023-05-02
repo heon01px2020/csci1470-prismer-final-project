@@ -1,0 +1,13 @@
+{
+    "caption": "the road closed on sunday",
+    "url": "https://images.thewest.com.au/publication/B881071706Z/1547199733582_G5K20TOA9.1-1.jpg?imwidth=810&impolicy=wan_v3",
+    "key": "000032347",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 810,
+    "original_height": 607,
+    "exif": "{\"Image ImageDescription\": \"Main roads closed the bussell Hwy: Jackson Lavell-Lee\", \"Image XResolution\": \"2534313/10000\", \"Image YResolution\": \"2534313/10000\", \"Image ResolutionUnit\": \"Pixels/Inch\"}",
+    "sha256": "e5dda20cc6372205196c09e8e6d5864002cd3f0a91b25826020f0aa95442cff8"
+}

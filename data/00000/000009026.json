@@ -1,0 +1,13 @@
+{
+    "caption": "a woman that is wearing a dress in the mirror",
+    "url": "https://www.simple-dress.com/media/catalog/product/2/8/28001005_1.jpg",
+    "key": "000009026",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 670,
+    "original_height": 900,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5 Windows\", \"Image DateTime\": \"2017:12:01 11:51:50\", \"Image ExifOffset\": \"164\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"302\", \"Thumbnail JPEGInterchangeFormatLength\": \"4535\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"670\", \"EXIF ExifImageLength\": \"900\"}",
+    "sha256": "05d95091da4b19424f547f33e598a7bc30df468e40f4687a92ff35ec98a6bf4e"
+}

@@ -1,0 +1,13 @@
+{
+    "caption": "a man sits on a bench in front of trees",
+    "url": "https://miro.medium.com/max/1536/1*z_dCHO8z2EfeygEJTBlbuw.jpeg",
+    "key": "000043560",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 768,
+    "original_height": 1024,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"768\", \"EXIF ExifImageLength\": \"1024\"}",
+    "sha256": "1707f47a0d0d9138bb44b30b372643ff4cde3345a4c1679b15d683a8c6fbb746"
+}

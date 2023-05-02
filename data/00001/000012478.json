@@ -1,0 +1,13 @@
+{
+    "caption": "a painting shows a woman sitting on a chair holding a baby",
+    "url": "https://assets.atlasobscura.com/article_images/lg/46094/image.jpg",
+    "key": "000012478",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 864,
+    "original_height": 727,
+    "exif": "{\"Image ImageWidth\": \"6600\", \"Image ImageLength\": \"5538\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image Compression\": \"Uncompressed\", \"Image PhotometricInterpretation\": \"2\", \"Image Make\": \"Hasselblad\", \"Image Model\": \"Hasselblad H4D-50MS - Hasselblad H4D\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image PlanarConfiguration\": \"1\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS4 Windows\", \"Image DateTime\": \"2014:09:17 10:53:37\", \"Image Artist\": \"Barbara Katus\", \"Image Copyright\": \"Pennsylvania Academy of the Fine Arts\", \"Image ExifOffset\": \"400\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"814\", \"Thumbnail JPEGInterchangeFormatLength\": \"4001\", \"EXIF ExposureTime\": \"1/60\", \"EXIF FNumber\": \"19/2\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:11:10 14:43:08\", \"EXIF DateTimeDigitized\": \"2011:11:10 14:43:08\", \"EXIF ShutterSpeedValue\": \"792809435/134217728\", \"EXIF ApertureValue\": \"871858903/134217728\", \"EXIF MaxApertureValue\": \"3\", \"EXIF SubjectDistance\": \"2659/1000\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"80\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"864\", \"EXIF ExifImageLength\": \"727\", \"EXIF FocalLengthIn35mmFilm\": \"56\"}",
+    "sha256": "a82b84ea044c61ba3e54a1b18a73bd0811e00f2e8429f46f83dc5cf6839c4221"
+}

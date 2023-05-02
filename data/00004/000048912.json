@@ -1,0 +1,13 @@
+{
+    "caption": "cat photograph with four cats lined up and one on the ground",
+    "url": "https://i2.wp.com/www.oxbridgeacademy.edu.za/blog/wp-content/uploads/2015/12/cats-clowder.jpg?resize=1000%2C625&ssl=1",
+    "key": "000048912",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1000,
+    "original_height": 625,
+    "exif": "{\"Image ImageWidth\": \"1920\", \"Image ImageLength\": \"1200\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2017 (Windows)\", \"Image DateTime\": \"2017:07:13 13:51:05\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"386\", \"Thumbnail JPEGInterchangeFormatLength\": \"5437\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1000\", \"EXIF ExifImageLength\": \"625\"}",
+    "sha256": "55ac546b0d853644fa61d8f6ec3aef07333ee381079ad52ed19fe086a92b951c"
+}

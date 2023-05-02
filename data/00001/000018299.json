@@ -1,0 +1,13 @@
+{
+    "caption": "some pictures of different types of items displayed on a table",
+    "url": "http://antemortemarts.com/files/bookshop-window-4m.jpg",
+    "key": "000018299",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 585,
+    "original_height": 439,
+    "exif": "{\"Image BitsPerSample\": \"[8, 8, 8]\", \"Image ImageDescription\": \"\", \"Image Make\": \"SONY\", \"Image Model\": \"CYBERSHOT\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"ImageReady\", \"Image DateTime\": \"2011-01-31T21:13:16-08:00\", \"Image JPEGInterchangeFormat\": \"851\", \"Image JPEGInterchangeFormatLength\": \"3862\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image Copyright\": \"\", \"Image ExifOffset\": \"314\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"2\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"320\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:01:29 20:22:36\", \"EXIF DateTimeDigitized\": \"2011:01:29 20:22:36\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"2\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"2\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"9840Flash did not fireFlash did not fireFlash did not fireFlash did not fire\", \"EXIF FocalLength\": \"81/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"585\", \"EXIF ExifImageLength\": \"439\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\"}",
+    "sha256": "49bebd39e20e8beb1c59f909a5215287c3d3943a236604f6a52c4e598346764a"
+}

@@ -1,0 +1,13 @@
+{
+    "caption": "a bike with a bottle strapped to the front end",
+    "url": "https://media.theradavist.com/uploads/2018/12/1960s-Cinelli-Super-Corsa-Road-1.jpg?w=750&quality=75",
+    "key": "000010937",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 750,
+    "original_height": 500,
+    "exif": "{\"Image ImageWidth\": \"2000\", \"Image ImageLength\": \"1333\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2017 (Macintosh)\", \"Image DateTime\": \"2018:12:09 19:46:28\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"396\", \"Thumbnail JPEGInterchangeFormatLength\": \"7149\", \"EXIF ExifVersion\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"750\", \"EXIF ExifImageLength\": \"500\"}",
+    "sha256": "a52478fb50ce376702ffe5eb3a88317ebb10fb993c901555dadde811d75913e4"
+}

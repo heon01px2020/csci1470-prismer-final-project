@@ -1,0 +1,13 @@
+{
+    "caption": "a room filled with gear",
+    "url": "http://is1.mzstatic.com/image/thumb/Purple122/v4/9f/d3/59/9fd359f6-2daf-673e-3b21-56728e695889/source/512x512bb.jpg",
+    "key": "000030045",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 512,
+    "original_height": 512,
+    "exif": "{\"Image ExifOffset\": \"26\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"512\", \"EXIF ExifImageLength\": \"512\"}",
+    "sha256": "f835856a8b3add94f15a976e0d32f4d439ea2c1417aadbb26b6bda47f47fefb3"
+}

@@ -1,0 +1,13 @@
+{
+    "caption": "a poster that says, did you know?",
+    "url": "https://dickinsoncountyconservationboard.com/wp-content/uploads/sites/2/2018/01/1-inch.jpg",
+    "key": "000007469",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 800,
+    "original_height": 800,
+    "exif": "{\"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"78\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"800\"}",
+    "sha256": "fe468ee0760a12b593e9b227737d10e1cff99d3d22a483460f44f22a968b97d5"
+}

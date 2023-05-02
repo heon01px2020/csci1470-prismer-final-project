@@ -1,0 +1,13 @@
+{
+    "caption": "a country lane with trees, grass and small houses",
+    "url": "https://minerdescent.files.wordpress.com/2012/03/village-of-acklam.jpg?w=640&h=480",
+    "key": "000038343",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 640,
+    "original_height": 480,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot A80\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"180\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2006:03:04 16:00:40\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"196\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"180\", \"Thumbnail YResolution\": \"180\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"2036\", \"Thumbnail JPEGInterchangeFormatLength\": \"5263\", \"EXIF ExposureTime\": \"1/500\", \"EXIF FNumber\": \"9/2\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2006:03:04 16:00:40\", \"EXIF DateTimeDigitized\": \"2006:03:04 16:00:40\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"5\", \"EXIF ShutterSpeedValue\": \"287/32\", \"EXIF ApertureValue\": \"139/32\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"107/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"183/16\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1600\", \"EXIF ExifImageLength\": \"1200\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"1600\", \"Interoperability RelatedImageLength\": \"1200\", \"EXIF InteroperabilityOffset\": \"1844\", \"EXIF FocalPlaneXResolution\": \"40000/7\", \"EXIF FocalPlaneYResolution\": \"40000/7\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "28475e5d049e4c760658adeac14c710f2a41aa4c26abc1819364ad068faed8bd"
+}

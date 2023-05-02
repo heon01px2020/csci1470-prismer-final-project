@@ -1,0 +1,13 @@
+{
+    "caption": "the water bottle has been ordered for sale",
+    "url": "https://cdn.shopify.com/s/files/1/2785/3442/products/WAVE24OGO-001_720x.jpg?v=1585256510",
+    "key": "000008405",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 720,
+    "original_height": 720,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"720\", \"EXIF ExifImageLength\": \"720\"}",
+    "sha256": "495049d0c7bfc2c10eb0df95205578d02b3e9062dd9f7cbeef1402cba48d5dd3"
+}

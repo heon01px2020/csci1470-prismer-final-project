@@ -1,0 +1,13 @@
+{
+    "caption": "a baked pie sitting on top of a cooling rack",
+    "url": "https://mytableofthree.com/wp-content/uploads/2016/03/whole-pie-edited-e1489519100388.jpg",
+    "key": "000022640",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 700,
+    "original_height": 467,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS REBEL T2i\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"PhotoScape\", \"Image DateTime\": \"2016:02:27 00:17:55\", \"Image Artist\": \"\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image Copyright\": \"\", \"Image ExifOffset\": \"220\", \"EXIF ExposureTime\": \"1/60\", \"EXIF FNumber\": \"5\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:02:27 00:17:55\", \"EXIF DateTimeDigitized\": \"2016:02:27 00:17:55\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"6\", \"EXIF ApertureValue\": \"37/8\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash fired, compulsory flash mode\", \"EXIF FocalLength\": \"42\", \"EXIF SubSecTime\": \"47\", \"EXIF SubSecTimeOriginal\": \"47\", \"EXIF SubSecTimeDigitized\": \"47\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"5184\", \"EXIF ExifImageLength\": \"3456\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"7952\", \"EXIF FocalPlaneXResolution\": \"1036800/181\", \"EXIF FocalPlaneYResolution\": \"691200/119\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "3d0135d699b6f1fffbc94725d5443284f3d24bef70d44c64f477f193f1d89d43"
+}

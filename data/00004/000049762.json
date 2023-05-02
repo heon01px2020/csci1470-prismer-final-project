@@ -1,0 +1,13 @@
+{
+    "caption": "the waterfront home sits on top of a large body of water",
+    "url": "https://cdn.luxuo.com/2020/02/Pic-2-The-Island-Waterfront-Villas-are-the-Pinnacle-of-Emerald-Bay-living-660x439.jpg",
+    "key": "000049762",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 660,
+    "original_height": 439,
+    "exif": "{\"Image Tag 0x000B\": \"Windows Photo Editor 10.0.10011.16384\", \"Image SubfileType\": \"Full-resolution Image\", \"Image ImageWidth\": \"5477\", \"Image ImageLength\": \"3098\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image Compression\": \"Uncompressed\", \"Image PhotometricInterpretation\": \"2\", \"Image Make\": \"DJI\", \"Image Model\": \"FC6310S\", \"Image StripOffsets\": \"25822\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image RowsPerStrip\": \"3098\", \"Image StripByteCounts\": \"50903238\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image PlanarConfiguration\": \"1\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Windows Photo Editor 10.0.10011.16384\", \"Image DateTime\": \"2019:11:28 12:04:31\", \"Image ExifOffset\": \"2476\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[1, 25, 279763/10000]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[103, 39, 472889/10000]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"49869/1000\", \"Image GPSInfo\": \"4936\", \"Image Padding\": \"[]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"300\", \"Thumbnail YResolution\": \"300\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"5178\", \"Thumbnail JPEGInterchangeFormatLength\": \"7375\", \"EXIF ExposureTime\": \"1/40\", \"EXIF FNumber\": \"4\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:11:06 18:53:52\", \"EXIF DateTimeDigitized\": \"2019:11:06 18:53:52\", \"EXIF ShutterSpeedValue\": \"5321/1000\", \"EXIF ApertureValue\": \"4\", \"EXIF ExposureBiasValue\": \"21/32\", \"EXIF MaxApertureValue\": \"297/100\", \"EXIF SubjectDistance\": \"0\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"No flash function\", \"EXIF FocalLength\": \"44/5\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF Contrast\": \"Hard\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Hard\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "76d086a64197e8478465207aed27a1310b30a7cf03e09f6b0e74017bc0a82e92"
+}

@@ -1,0 +1,13 @@
+{
+    "caption": "a drawing of a group of men in costumes",
+    "url": "https://theatremuseum.ca/wp-content/uploads/2018/04/994_1_205_A.jpg",
+    "key": "000000443",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 2130,
+    "original_height": 1287,
+    "exif": "{\"Image Make\": \"EASTMAN KODAK COMPANY\", \"Image Model\": \"KODAK CX7430 ZOOM DIGITAL CAMERA\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"230\", \"Image YResolution\": \"230\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"506\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Orientation\": \"Horizontal (normal)\", \"Thumbnail XResolution\": \"230\", \"Thumbnail YResolution\": \"230\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"3000\", \"Thumbnail JPEGInterchangeFormatLength\": \"3984\", \"EXIF ExposureTime\": \"1/20\", \"EXIF FNumber\": \"4\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2004:05:10 20:09:30\", \"EXIF DateTimeDigitized\": \"2004:05:10 20:09:30\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"9/2\", \"EXIF ApertureValue\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"37/10\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"54/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2304\", \"EXIF ExifImageLength\": \"1728\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"2696\", \"EXIF ExposureIndex\": \"140\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"66\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"1\"}",
+    "sha256": "4f0a643547bd082b886a44e29cb5cc2d435cb2cb81ec94af1c1a2533ae44ac56"
+}

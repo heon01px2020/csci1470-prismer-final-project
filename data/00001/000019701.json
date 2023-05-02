@@ -1,0 +1,13 @@
+{
+    "caption": "a movie poster for the film the philadelphia experiment",
+    "url": "https://www.de173.com/wp-content/uploads/2016/06/PX-Movie-Poster-1-1.jpg",
+    "key": "000019701",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 2843,
+    "original_height": 4000,
+    "exif": "{\"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"90\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\"}",
+    "sha256": "f7aa46f428e2c934ff1d7f98f79b53c69d361317ab00cb1f1ba9792a5aaa855b"
+}

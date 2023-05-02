@@ -1,0 +1,13 @@
+{
+    "caption": "the golden girls shirt",
+    "url": "https://i2.wp.com/limotees.net/photos/2019/08/the-golden-girls-ghouls-shirt.jpg?fit=700%2C750&ssl=1",
+    "key": "000048656",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 700,
+    "original_height": 750,
+    "exif": "{\"Image ImageDescription\": \"The Golden Girls Ghouls shirt\", \"Image Artist\": \"https://limotees.net\", \"Image Rating\": \"5\", \"Image Tag 0x4749\": \"99\", \"Image ExifOffset\": \"2258\", \"Image XPTitle\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image XPComment\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image XPAuthor\": \"\", \"Image XPKeywords\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image XPSubject\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image Padding\": \"[]\", \"EXIF DateTimeOriginal\": \"2019:08:23 16:16:09\", \"EXIF DateTimeDigitized\": \"2019:08:23 16:16:09\", \"EXIF SubSecTimeOriginal\": \"38\", \"EXIF SubSecTimeDigitized\": \"38\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "facaf328f5b419a075a3fa406d2d8b6fae9bfab5632acab5f40f27e2d3db141a"
+}

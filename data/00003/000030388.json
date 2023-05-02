@@ -1,0 +1,13 @@
+{
+    "caption": "a canal, on a sunny day",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/The_Ripon_Canal_above_the_top_lock.jpg",
+    "key": "000030388",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 640,
+    "original_height": 480,
+    "exif": "{\"Image ImageDescription\": \"OLYMPUS DIGITAL CAMERA\", \"Image Make\": \"OLYMPUS OPTICAL CO.,LTD\", \"Image Model\": \"C4040Z\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"v552p-A79\", \"Image DateTime\": \"2006:10:24 11:23:13\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"284\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"4084\", \"Thumbnail JPEGInterchangeFormatLength\": \"6161\", \"EXIF ExposureTime\": \"1/400\", \"EXIF FNumber\": \"9/2\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2006:10:24 11:23:13\", \"EXIF DateTimeDigitized\": \"2006:10:24 11:23:13\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"2\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"17/10\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"73/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2272\", \"EXIF ExifImageLength\": \"1704\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"886\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\"}",
+    "sha256": "4f5ff7dbf1288b93a40e97bb3338006083217f1ac74945a38afa702c7a7a297f"
+}

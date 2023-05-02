@@ -1,0 +1,13 @@
+{
+    "caption": "the blood swept sculpture on display at night",
+    "url": "https://media.npr.org/assets/img/2014/11/11/london-poppies1111-006-9e758bc36f390be9a1e660ca45f664fe8f548543-s800-c15.jpg",
+    "key": "000009947",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 800,
+    "original_height": 533,
+    "exif": "{\"Image ImageWidth\": \"5184\", \"Image ImageLength\": \"3456\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image ImageDescription\": \"The near completed ceramic poppy art installation at sunrise on Tuesday.   (AP Photo/Matt Dunham)\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Macintosh)\", \"Image DateTime\": \"2014:11:11 09:39:52\", \"Image Artist\": \"Matt Dunham\", \"Image ExifOffset\": \"728\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"878\", \"Thumbnail JPEGInterchangeFormatLength\": \"3994\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"3000\", \"EXIF ExifImageLength\": \"2000\"}",
+    "sha256": "a0731104cac6b20b09f0f47593f060cf8db15971e7813996916e0a5cf55ef3ce"
+}

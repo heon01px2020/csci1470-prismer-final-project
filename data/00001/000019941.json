@@ -1,0 +1,13 @@
+{
+    "caption": "a bride holding a wedding bouquet at a venue",
+    "url": "http://www.marrymetampabay.com/wp-content/uploads/2014/12/123.jpg",
+    "key": "000019941",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 590,
+    "original_height": 456,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D Mark II\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Windows)\", \"Image DateTime\": \"2014:09:12 13:04:31\", \"Image Copyright\": \"Copyright Jon Montis Photography. All Rrights Reserved.\", \"Image ExifOffset\": \"284\", \"EXIF ExposureTime\": \"1/80\", \"EXIF FNumber\": \"16/5\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"800\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:08:16 17:01:07\", \"EXIF DateTimeDigitized\": \"2014:08:16 17:01:07\", \"EXIF ShutterSpeedValue\": \"4065/643\", \"EXIF ApertureValue\": \"4561/1359\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"70\", \"EXIF SubSecTime\": \"11\", \"EXIF SubSecTimeOriginal\": \"11\", \"EXIF SubSecTimeDigitized\": \"11\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"590\", \"EXIF ExifImageLength\": \"456\", \"EXIF FocalPlaneXResolution\": \"200159/52\", \"EXIF FocalPlaneYResolution\": \"551048/141\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF CameraOwnerName\": \"Jonathan Montis\", \"EXIF BodySerialNumber\": \"1020706197\", \"EXIF LensSpecification\": \"[24, 70, 0, 0]\", \"EXIF LensModel\": \"EF24-70mm f/2.8L USM\"}",
+    "sha256": "69605b775201e9c754a7ed2c729e29d2069222c70362ae92361dba55909ad3ff"
+}

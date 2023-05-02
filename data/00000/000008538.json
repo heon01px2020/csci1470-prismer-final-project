@@ -1,0 +1,13 @@
+{
+    "caption": "an article on the feature in the new homes magazine",
+    "url": "https://i1.wp.com/www.castrads.com/us/wp-content/uploads/2019/10/castrads-print-10.jpg?fit=1707%2C824&ssl=1",
+    "key": "000008538",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1707,
+    "original_height": 824,
+    "exif": "{\"Image ImageWidth\": \"7112\", \"Image ImageLength\": \"3433\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop 21.0 (Macintosh)\", \"Image DateTime\": \"2019:12:02 13:21:19\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"386\", \"Thumbnail JPEGInterchangeFormatLength\": \"4377\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1707\", \"EXIF ExifImageLength\": \"824\"}",
+    "sha256": "87fc67ccfcc5635c3261da303740d874800a7ff0670de943603830cf9dca6514"
+}

@@ -1,0 +1,13 @@
+{
+    "caption": "person shirt",
+    "url": "https://cdn.shopify.com/s/files/1/1000/7596/products/DynamicImageHandler_b2cf74e1-7fd2-4f27-a518-855aa6f95049_grande.jpg?v=1539571351",
+    "key": "000019557",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 600,
+    "original_height": 600,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"600\"}",
+    "sha256": "06f9a5d97a3e671b77004d73605c9a64f498023b9610f66df41b7812c96fb164"
+}

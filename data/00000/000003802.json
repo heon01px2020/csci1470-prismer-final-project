@@ -1,0 +1,13 @@
+{
+    "caption": "an alien sighting spaceship flying over a city",
+    "url": "https://media.sciencephoto.com/image/f0224533/800wm/F0224533-Alien_space_ship_over_the_city,_illustration.jpg",
+    "key": "000003802",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 800,
+    "original_height": 591,
+    "exif": "{\"Image ImageDescription\": \"Alien space ship over the city, illustration.\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Science Photo Library\"}",
+    "sha256": "27825ab926432c46ae64bfdc058c86e97a259f32794b243b406098fb99bddd83"
+}

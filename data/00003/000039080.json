@@ -1,0 +1,13 @@
+{
+    "caption": "the kitchen has an interesting checkered floor",
+    "url": "https://5241e237e8ca89f68ae3-93af0715f0ee41f3c44620e30f2e5f01.ssl.cf1.rackcdn.com/properties/photos/15737591117130609.jpg",
+    "key": "000039080",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1440,
+    "original_height": 960,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 6D Mark II\", \"Image XResolution\": \"80\", \"Image YResolution\": \"80\", \"Image ResolutionUnit\": \"Pixels/Centimeter\", \"Image Software\": \"Adobe Photoshop Lightroom Classic 8.4 (Macintosh)\", \"Image DateTime\": \"2019:09:10 18:28:43\", \"Image ExifOffset\": \"224\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"80\", \"Thumbnail YResolution\": \"80\", \"Thumbnail ResolutionUnit\": \"Pixels/Centimeter\", \"Thumbnail JPEGInterchangeFormat\": \"896\", \"Thumbnail JPEGInterchangeFormatLength\": \"13249\", \"EXIF ExposureTime\": \"1/80\", \"EXIF FNumber\": \"4\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:09:10 13:29:28\", \"EXIF DateTimeDigitized\": \"2019:09:10 13:29:28\", \"EXIF OffsetTime\": \"+02:00\", \"EXIF ShutterSpeedValue\": \"790241/125000\", \"EXIF ApertureValue\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"14\", \"EXIF SubSecTimeOriginal\": \"87\", \"EXIF SubSecTimeDigitized\": \"87\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FocalPlaneXResolution\": \"1248000/187\", \"EXIF FocalPlaneYResolution\": \"4160000/619\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"203052001335\", \"EXIF LensSpecification\": \"[14, 14, 0/0, 0/0]\", \"EXIF LensModel\": \"EF14mm f/2.8L II USM\", \"EXIF LensSerialNumber\": \"0000800c5b\"}",
+    "sha256": "b1333f47fe6f2b4314d22941caad497b1fcf476b418920ecfc194223f1322c38"
+}

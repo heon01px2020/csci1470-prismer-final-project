@@ -1,0 +1,13 @@
+{
+    "caption": "a cartoon fish with a big grin",
+    "url": "https://as1.ftcdn.net/jpg/01/95/56/96/500_F_195569676_xaWNP01H4Q7PxGE0NAeEScuvTRJIYq2M.jpg",
+    "key": "000003700",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 500,
+    "original_height": 500,
+    "exif": "{\"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\"}",
+    "sha256": "ff2594ea4669bed003c675968c3525b6cf6c755992b1cbd3ba8723622f889efa"
+}
