@@ -1,1 +1,0 @@
-the instructions and diagrams for an instruction model toy

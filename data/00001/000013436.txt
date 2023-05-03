@@ -1,1 +1,0 @@
-the coordinate drawing of the window

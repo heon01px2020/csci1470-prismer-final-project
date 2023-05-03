@@ -1,1 +1,0 @@
-a line that intersects two or more coplanar lines at different points

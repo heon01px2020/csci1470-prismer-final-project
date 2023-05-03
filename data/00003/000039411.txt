@@ -1,1 +1,0 @@
-actor person is filmed with his actors on the set of his new film, `'dunkirk'on location

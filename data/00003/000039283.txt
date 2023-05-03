@@ -1,1 +1,0 @@
-six hooks placed on top of a box
