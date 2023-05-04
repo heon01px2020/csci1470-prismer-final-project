@@ -1,3 +1,6 @@
+# preprocess TextVQA dataset
+
+import json
 import pickle
 import random
 import re
@@ -56,46 +59,87 @@ def load_data(data_folder):
 
     Feel free to ignore this, but please read over this if you want a little more clairity 
     on how the images and captions were pre-processed 
-    '''
-    text_file_path = f'{data_folder}/captions.txt'
 
-    with open(text_file_path) as file:
-        examples = file.read().splitlines()[1:]
+
+    '''
+    train_text_file_path = f'{data_folder}/textvqa_train.json'
+
+    with open(train_text_file_path) as train_file:
+        train_data = json.load(train_file) # python dictionary
+
+    # map each image_id to a dictionary containing the question and a list containing all the answers
+    train_image_ids_to_questions_and_answers = {}
+    for dict in train_data:
+        image_id = dict["image_id"]
+        questions = dict["question"]
+        answers = dict["answers"]
+        train_image_ids_to_questions_and_answers[image_id] = {
+            "question_tokens": questions,
+            "answers": answers
+            }
     
-    #map each image name to a list containing all 5 of its captons
-    image_names_to_captions = {}
-    for example in examples:
-        img_name, caption = example.split(',', 1)
-        image_names_to_captions[img_name] = image_names_to_captions.get(img_name, []) + [caption]
+    test_text_file_path = f'{data_folder}/textvqa_test.json'
+
+    with open(test_text_file_path) as test_file:
+        test_data = json.load(test_file) # python dictionary
+    
+    test_image_ids_to_questions_and_answers = {}
+    for dict in test_data:
+        image_id = dict["image_id"]
+        questions = dict["question"]
+        answers = dict["answers"]
+        test_image_ids_to_questions_and_answers[image_id] = {
+            "question_tokens": questions,
+            "answers": answers
+            }
+    
+
+    # #map each image name to a list containing all 5 of its captons
+    # image_names_to_captions = {}
+    # for example in examples:
+    #     img_name, caption = example.split(',', 1)
+    #     image_names_to_captions[img_name] = image_names_to_captions.get(img_name, []) + [caption]
 
     #randomly split examples into training and testing sets
-    shuffled_images = list(image_names_to_captions.keys())
-    random.seed(0)
-    random.shuffle(shuffled_images)
-    test_image_names = shuffled_images[:1000]
-    train_image_names = shuffled_images[1000:]
+    # shuffled_images = list(image_names_to_captions.keys())
+    # random.seed(0)
+    # random.shuffle(shuffled_images)
+    # test_image_names = shuffled_images[:1000]
+    # train_image_names = shuffled_images[1000:]
 
-    def get_all_captions(image_names):
+    def get_all_questions(image_ids_to_questions_and_answers):
         to_return = []
-        for image in image_names:
-            captions = image_names_to_captions[image]
-            for caption in captions:
-                to_return.append(caption)
+        for image_id in image_ids_to_questions_and_answers:
+            question = image_ids_to_questions_and_answers[image_id]["question"]
+            to_return.append(question)
         return to_return
 
 
-    # get lists of all the captions in the train and testing set
-    train_captions = get_all_captions(train_image_names)
-    test_captions = get_all_captions(test_image_names)
+    # get lists of all the questions in the train and testing set
+    train_questions = get_all_questions(train_image_ids_to_questions_and_answers)
+    test_questions = get_all_questions(test_image_ids_to_questions_and_answers)
+
+
+    def get_all_answers(image_ids_to_questions_and_answers):
+        to_return = []
+        for image_id in image_ids_to_questions_and_answers:
+            answers = image_ids_to_questions_and_answers[image_id]["answers"]
+            to_return.append(answers)
+        return to_return
+
+
+    # get lists of all the ansers in the train and testing set
+    train_answers = get_all_answers(train_image_ids_to_questions_and_answers) #a list of lists of answers
+    test_answers = get_all_answers(test_image_ids_to_questions_and_answers)
 
     #remove special charachters and other nessesary preprocessing
     window_size = 20
-    preprocess_captions(train_captions, window_size)
-    preprocess_captions(test_captions, window_size)
+    preprocess_captions(train_questions, window_size)
+    preprocess_captions(test_questions, window_size)
 
     # count word frequencies and replace rare words with '<unk>'
     word_count = collections.Counter()
-    for caption in train_captions:
+    for caption in train_questions:
         word_count.update(caption)
 
     def unk_captions(captions, minimum_frequency):
@@ -104,45 +148,52 @@ def load_data(data_folder):
                 if word_count[word] <= minimum_frequency:
                     caption[index] = '<unk>'
 
-    unk_captions(train_captions, 50)
-    unk_captions(test_captions, 50)
+    unk_captions(train_questions, 50)
+    unk_captions(test_questions, 50)
 
     # pad captions so they all have equal length
     def pad_captions(captions, window_size):
         for caption in captions:
             caption += (window_size + 1 - len(caption)) * ['<pad>'] 
     
-    pad_captions(train_captions, window_size)
-    pad_captions(test_captions,  window_size)
+    pad_captions(train_questions, window_size)
+    pad_captions(test_questions,  window_size)
 
-    # assign unique ids to every work left in the vocabulary
+    # assign unique ids to every word left in the vocabulary
     word2idx = {}
     vocab_size = 0
-    for caption in train_captions:
-        for index, word in enumerate(caption):
+    for question in train_questions:
+        for index, word in enumerate(question):
             if word in word2idx:
-                caption[index] = word2idx[word]
+                question[index] = word2idx[word]
             else:
                 word2idx[word] = vocab_size
-                caption[index] = vocab_size
+                question[index] = vocab_size
                 vocab_size += 1
-    for caption in test_captions:
-        for index, word in enumerate(caption):
-            caption[index] = word2idx[word] 
+    for question in test_questions:
+        for index, word in enumerate(question):
+            question[index] = word2idx[word] 
     
     # use ResNet50 to extract image features
+    train_image_ids = train_image_ids_to_questions_and_answers.keys()
+    test_image_ids = test_image_ids_to_questions_and_answers.keys()
+
     print("Getting training embeddings")
-    train_image_features, train_images = get_image_features(train_image_names, data_folder)
+    train_image_features, train_images = get_image_features(train_image_ids, data_folder)
     print("Getting testing embeddings")
-    test_image_features,  test_images  = get_image_features(test_image_names, data_folder)
+    test_image_features,  test_images  = get_image_features(test_image_ids, data_folder)
+
+
 
     return dict(
-        train_captions          = np.array(train_captions),
-        test_captions           = np.array(test_captions),
+        train_questions          = np.array(train_questions),
+        test_questions           = np.array(test_questions),
         train_image_features    = np.array(train_image_features),
         test_image_features     = np.array(test_image_features),
         train_images            = np.array(train_images),
         test_images             = np.array(test_images),
+        train_answers           = np.array(train_answers),
+        test_answers            = np.array(test_answers),
         word2idx                = word2idx,
         idx2word                = {v:k for k,v in word2idx.items()},
     )
@@ -158,5 +209,5 @@ if __name__ == '__main__':
     ## Download this and put the Images and captions.txt indo your ../data directory
     ## Flickr 8k Dataset: https://www.kaggle.com/datasets/adityajn105/flickr8k?resource=download
     ## TODO: download the VQA dataset 
-    data_folder = 'data'
+    data_folder = '../data'
     create_pickle(data_folder)
