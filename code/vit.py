@@ -1,8 +1,7 @@
+import os
+os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
 import tensorflow as tf
-from tensorflow.keras import Sequential
-from tensorflow.keras.layers import Dense, Flatten, Reshape, LayerNormalization, MultiHeadAttention, Add, Dropout, Input, Embedding, Concatenate, Layer
-from tensorflow.math import exp, sqrt, square
-import numpy as np
+from tensorflow.keras.layers import Dense, LayerNormalization, MultiHeadAttention, Add, Dropout, Embedding, Concatenate, Layer
 
 
 class VIT(tf.keras.Model):
@@ -15,9 +14,14 @@ class VIT(tf.keras.Model):
         self.num_layers = args.num_layers
         self.batch_size = args.batch_size
         self.num_classes = args.num_classes
-        self.learning_rate = args.learning_rate
         self.loss_list = [] # Append losses to this list in training so you can visualize loss vs time in main
-        self.optimizer = tf.keras.optimizers.Adam(learning_rate = self.learning_rate)
+        initial_learning_rate = args.learning_rate
+        lr_schedule = tf.keras.optimizers.schedules.ExponentialDecay(
+            initial_learning_rate,
+            decay_steps=50,
+            decay_rate=0.9,
+            staircase=True)
+        self.optimizer = tf.keras.optimizers.Adam(learning_rate=lr_schedule)
 
 
         self.patch_embed = Dense(args.hidden_dim)

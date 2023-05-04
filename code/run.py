@@ -1,14 +1,18 @@
 from __future__ import absolute_import
-import tensorflow as tf
 import os
+os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
+
+import tensorflow as tf
 import numpy as np
 from vit import VIT
 import argparse
-from preprocess import get_data
+from preprocess import get_train_data, get_val_data
 from matplotlib import pyplot as plt
-from preprocess import get_data
 import math
 import cv2
+import time
+
+os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
 
 def parseArguments():
     parser = argparse.ArgumentParser()
@@ -16,16 +20,17 @@ def parseArguments():
     parser.add_argument("--continue_train", action="store_true")
     parser.add_argument("--batch_size", type=int, default=128)
     parser.add_argument("--num_epochs", type=int, default=10)
-    parser.add_argument("--num_classes", type=int, default=1000)
+    parser.add_argument("--num_classes", type=int, default=200)
     parser.add_argument("--hidden_dim", type=int, default=100)
     parser.add_argument("--num_patches", type=int, default=16)
-    parser.add_argument("--patch_size", type=int, default=16)
+    parser.add_argument("--patch_size", type=int, default=8)
     parser.add_argument("--num_channels", type=int, default=3)
     parser.add_argument("--dropout_rate", type=int, default=0.1)
     parser.add_argument("--num_heads", type=int, default=3)
     parser.add_argument("--mlp_dim", type=int, default=100)
-    parser.add_argument("--learning_rate", type=float, default=1e-4)
+    parser.add_argument("--learning_rate", type=float, default=5e-3)
     parser.add_argument("--num_layers", type=int, default=12)
+    parser.add_argument("--test_batch", type=int, default=0)
     parser.add_argument('--chkpt_path',     default='', help='where the model checkpoint is')
     parser.add_argument('--image_path', type=str, default='')
     args = parser.parse_args()
@@ -179,17 +184,17 @@ def load_weights(model):
     Returns:
     - model: Trained model.
     """
-    inputs = tf.zeros([1, 64, 64, args.num_channels])  # Random data sample
+    inputs = tf.zeros([1, 32, 32, args.num_channels])  # Random data sample
     weights_path = os.path.join("model_ckpts", "vit")
     _ = model(inputs)
     model.load_weights(weights_path).expect_partial()
     return model
 
-def train_helper(model, inputs, labels, args, test_inputs, test_labels):
+def train_helper(model, train_inputs, train_labels, args, test_inputs, test_labels):
     for i in range(args.num_epochs):
-        r = (i % 11) * 10000
-        train_inputs = inputs[r : r + 10000]
-        train_labels = labels[r : r + 10000]
+        # r = (i % 11) * 10000
+        # train_inputs = inputs[r : r + 10000]
+        # train_labels = labels[r : r + 10000]
         losses = train(model, train_inputs, train_labels)
         if i % 1 == 0:
             train_acc = model.accuracy(model(train_inputs), train_labels)
@@ -221,10 +226,32 @@ def main(args):
     
     :return: None
     '''
-    train_inputs, train_labels = get_data("../data/train_data_batch_1")
-    test_inputs, test_labels = get_data("../data/val_data")
-    test_inputs = test_inputs[:1000]
-    test_labels = test_labels[:1000]
+    text_dir = "/Users/heonlee/Desktop/Courses/CSCI1470/my_prismer/data/tiny_imagenet/wnids.txt"
+    dictionary = {}
+    i = 0
+    with open(text_dir) as file:
+        for item in file:
+            dictionary[item[:-1]] = i
+            i+= 1
+    
+    train_inputs, train_labels = get_train_data("../data/tiny_imagenet/train", dictionary)
+    test_inputs, test_labels = get_val_data("../data/tiny_imagenet/val/images", "../data/tiny_imagenet/val/val_annotations.txt", dictionary)
+    testing_set = (args.test_batch % 5) * 1000
+
+    train_random_indices = tf.random.shuffle(tf.range(train_inputs.shape[0]))
+    # alternatively, considering zipping
+    train_inputs = tf.gather(train_inputs, train_random_indices)
+    train_labels = tf.gather(train_labels, train_random_indices)
+
+    test_random_indices = tf.random.shuffle(tf.range(test_inputs.shape[0]))
+    test_inputs = tf.gather(train_inputs, test_random_indices)
+    test_labels = tf.gather(train_labels, test_random_indices)
+
+    train_inputs = train_inputs[:10000]
+    train_labels = train_labels[:10000]
+    test_inputs = test_inputs[testing_set:testing_set+1000]
+    test_labels = test_labels[testing_set:testing_set+1000]
+
 
     # Instantiate our model
     model = VIT(args)
@@ -244,6 +271,7 @@ def main(args):
 
     if not args.load_weights:
         visualize_loss(losses)
+
     if args.image_path:
         img = cv2.imread(args.image_path)
         img = cv2.resize(img, dsize=(32, 32), interpolation=cv2.INTER_CUBIC)
@@ -253,6 +281,10 @@ def main(args):
         print("Probability: ", str(prob))
         print("Predicted class (0 is cat, 1 is dog): ", str(pred))
     # visualize_results(test_inputs[:50], model(test_inputs)[:50], test_labels[:50], "cat", "dog")
+    
+    for i in range(10):
+        time.sleep(0.5)
+        print('\a')
     return
 
 
