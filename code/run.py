@@ -9,10 +9,12 @@ from preprocess import get_data
 from matplotlib import pyplot as plt
 from preprocess import get_data
 import math
+import cv2
 
 def parseArguments():
     parser = argparse.ArgumentParser()
     parser.add_argument("--load_weights", action="store_true")
+    parser.add_argument("--continue_train", action="store_true")
     parser.add_argument("--batch_size", type=int, default=128)
     parser.add_argument("--num_epochs", type=int, default=10)
     parser.add_argument("--num_classes", type=int, default=2)
@@ -25,6 +27,8 @@ def parseArguments():
     parser.add_argument("--mlp_dim", type=int, default=100)
     parser.add_argument("--learning_rate", type=float, default=1e-3)
     parser.add_argument("--num_layers", type=int, default=12)
+    parser.add_argument('--chkpt_path',     default='', help='where the model checkpoint is')
+    parser.add_argument('--image_path', type=str, default='')
     args = parser.parse_args()
     return args
 
@@ -32,6 +36,10 @@ def parseArguments():
 # ensures that we run only on cpu
 os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
 
+def save_model(model, args):
+    '''Loads model based on arguments'''
+    tf.keras.models.save_model(model, args.chkpt_path)
+    print(f"Model saved to '{args.chkpt_path}'")
 
 def train(model, train_inputs, train_labels):
     '''
@@ -162,6 +170,34 @@ def visualize_results(image_inputs, probabilities, image_labels, first_label, se
     plotter(incorrect, 'Incorrect')
     plt.show()
 
+def load_weights(model):
+    """
+    Load the trained model's weights.
+
+    Inputs:
+    - model: Your untrained model instance.
+    
+    Returns:
+    - model: Trained model.
+    """
+    inputs = tf.zeros([1, 32, 32, args.num_channels])  # Random data sample
+    weights_path = os.path.join("model_ckpts", "vit")
+    _ = model(inputs)
+    model.load_weights(weights_path).expect_partial()
+    return model
+
+def train_helper(model, train_inputs, train_labels, args):
+    for i in range(args.num_epochs):
+
+        losses = train(model, train_inputs, train_labels)
+        if i % 1 == 0:
+            train_acc = model.accuracy(model(train_inputs), train_labels)
+            print(f"Accuracy on training set after {i+1} training steps: {train_acc}")
+
+    if args.chkpt_path: 
+        ## Save model to run testing task afterwards
+        save_model(model, args)
+    return losses
 
 def main(args):
     '''
@@ -183,19 +219,29 @@ def main(args):
     # Instantiate our model
     model = VIT(args)
 
-    # Loop through training steps
-    for i in range(args.num_epochs):
+    if args.load_weights:
+       model = load_weights(model)
+       if args.continue_train:
+           losses = train_helper(model, train_inputs, train_labels, args)
 
-        losses = train(model, train_inputs, train_labels)
-        if i % 1 == 0:
-            train_acc = model.accuracy(model(train_inputs), train_labels)
-            print(f"Accuracy on training set after {i+1} training steps: {train_acc}")
+    else:
+        losses = train_helper(model, train_inputs, train_labels, args)
 
     print()
     test_acc = test(model, test_inputs, test_labels)
     print(f"Accuracy on testing set: {test_acc}")
     model.summary()
-    visualize_loss(losses)
+
+    if not args.load_weights:
+        visualize_loss(losses)
+    if args.image_path:
+        img = cv2.imread(args.image_path)
+        img = cv2.resize(img, dsize=(32, 32), interpolation=cv2.INTER_CUBIC)
+        img = np.reshape(img, (1, 32, 32, 3))
+        prob = tf.nn.softmax(model(img))
+        pred = tf.math.argmax(prob, axis=-1)
+        print("Probability: ", str(prob))
+        print("Predicted class (0 is cat, 1 is dog): ", str(pred))
     visualize_results(test_inputs[:50], model(test_inputs)[:50], test_labels[:50], "cat", "dog")
     return
 
