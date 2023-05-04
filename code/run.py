@@ -3,7 +3,6 @@ import tensorflow as tf
 import os
 import numpy as np
 from vit import VIT
-from vit2 import ViT
 import argparse
 from preprocess import get_data
 from matplotlib import pyplot as plt
@@ -17,15 +16,15 @@ def parseArguments():
     parser.add_argument("--continue_train", action="store_true")
     parser.add_argument("--batch_size", type=int, default=128)
     parser.add_argument("--num_epochs", type=int, default=10)
-    parser.add_argument("--num_classes", type=int, default=2)
+    parser.add_argument("--num_classes", type=int, default=1000)
     parser.add_argument("--hidden_dim", type=int, default=100)
     parser.add_argument("--num_patches", type=int, default=16)
-    parser.add_argument("--patch_size", type=int, default=8)
+    parser.add_argument("--patch_size", type=int, default=16)
     parser.add_argument("--num_channels", type=int, default=3)
     parser.add_argument("--dropout_rate", type=int, default=0.1)
     parser.add_argument("--num_heads", type=int, default=3)
     parser.add_argument("--mlp_dim", type=int, default=100)
-    parser.add_argument("--learning_rate", type=float, default=1e-3)
+    parser.add_argument("--learning_rate", type=float, default=1e-4)
     parser.add_argument("--num_layers", type=int, default=12)
     parser.add_argument('--chkpt_path',     default='', help='where the model checkpoint is')
     parser.add_argument('--image_path', type=str, default='')
@@ -180,21 +179,30 @@ def load_weights(model):
     Returns:
     - model: Trained model.
     """
-    inputs = tf.zeros([1, 32, 32, args.num_channels])  # Random data sample
+    inputs = tf.zeros([1, 64, 64, args.num_channels])  # Random data sample
     weights_path = os.path.join("model_ckpts", "vit")
     _ = model(inputs)
     model.load_weights(weights_path).expect_partial()
     return model
 
-def train_helper(model, train_inputs, train_labels, args):
+def train_helper(model, inputs, labels, args, test_inputs, test_labels):
     for i in range(args.num_epochs):
-
+        r = (i % 11) * 10000
+        train_inputs = inputs[r : r + 10000]
+        train_labels = labels[r : r + 10000]
         losses = train(model, train_inputs, train_labels)
         if i % 1 == 0:
             train_acc = model.accuracy(model(train_inputs), train_labels)
             print(f"Accuracy on training set after {i+1} training steps: {train_acc}")
 
-    if args.chkpt_path: 
+        if i % 20 == 19 and args.chkpt_path: 
+            ## Save model to run testing task afterwards
+            save_model(model, args)
+        
+        if i % 5 == 4:
+            test_acc = test(model, test_inputs, test_labels)
+            print(f"Accuracy on testing set after {i+1} epochs: {test_acc}")
+    if args.chkpt_path:
         ## Save model to run testing task afterwards
         save_model(model, args)
     return losses
@@ -213,8 +221,10 @@ def main(args):
     
     :return: None
     '''
-    train_inputs, train_labels = get_data("../data/train", 3, 5)
-    test_inputs, test_labels = get_data("../data/test", 3, 5)
+    train_inputs, train_labels = get_data("../data/train_data_batch_1")
+    test_inputs, test_labels = get_data("../data/val_data")
+    test_inputs = test_inputs[:1000]
+    test_labels = test_labels[:1000]
 
     # Instantiate our model
     model = VIT(args)
@@ -222,10 +232,10 @@ def main(args):
     if args.load_weights:
        model = load_weights(model)
        if args.continue_train:
-           losses = train_helper(model, train_inputs, train_labels, args)
+           losses = train_helper(model, train_inputs, train_labels, args, test_inputs, test_labels)
 
     else:
-        losses = train_helper(model, train_inputs, train_labels, args)
+        losses = train_helper(model, train_inputs, train_labels, args, test_inputs, test_labels)
 
     print()
     test_acc = test(model, test_inputs, test_labels)
@@ -242,7 +252,7 @@ def main(args):
         pred = tf.math.argmax(prob, axis=-1)
         print("Probability: ", str(prob))
         print("Predicted class (0 is cat, 1 is dog): ", str(pred))
-    visualize_results(test_inputs[:50], model(test_inputs)[:50], test_labels[:50], "cat", "dog")
+    # visualize_results(test_inputs[:50], model(test_inputs)[:50], test_labels[:50], "cat", "dog")
     return
 
 

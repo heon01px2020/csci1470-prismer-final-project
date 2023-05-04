@@ -102,7 +102,7 @@ class VIT(tf.keras.Model):
         :return: the loss of the model as a Tensor
         """
         ################ CHECK BACK WHETHER IT SHOULD BE tf.nn.softmax__
-        return tf.keras.losses.BinaryCrossentropy(from_logits=True)(labels, logits)
+        return tf.keras.losses.CategoricalCrossentropy(from_logits=True)(labels, logits)
         # return tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(labels, logits))
 
     def accuracy(self, logits, labels):
@@ -118,7 +118,10 @@ class VIT(tf.keras.Model):
         
         :return: the accuracy of the model as a Tensor
         """
-        correct_predictions = tf.equal(tf.argmax(logits, 1), tf.argmax(labels, 1))
+        labels = tf.cast(labels, tf.int32)
+        labels = tf.math.argmax(labels, 1)
+        correct_predictions = tf.math.in_top_k(labels, logits, 5)
+        # correct_predictions = tf.equal(tf.math.argmax(logits, 1), tf.math.argmax(labels, 1))
         return tf.reduce_mean(tf.cast(correct_predictions, tf.float32))
     
 
