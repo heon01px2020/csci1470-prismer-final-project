@@ -2,9 +2,8 @@ from __future__ import absolute_import
 import tensorflow as tf
 import os
 import numpy as np
-from vae import VAE, CVAE, reparametrize, loss_function
-from assignment import show_cvae_images
 from vit import VIT
+from vit2 import ViT
 import argparse
 from preprocess import get_data
 from matplotlib import pyplot as plt
@@ -19,7 +18,7 @@ def parseArguments():
     parser.add_argument("--num_classes", type=int, default=2)
     parser.add_argument("--hidden_dim", type=int, default=100)
     parser.add_argument("--num_patches", type=int, default=16)
-    parser.add_argument("--patch_size", type=int, default=8 * 8)
+    parser.add_argument("--patch_size", type=int, default=8)
     parser.add_argument("--num_channels", type=int, default=3)
     parser.add_argument("--dropout_rate", type=int, default=0.1)
     parser.add_argument("--num_heads", type=int, default=3)
@@ -62,6 +61,7 @@ def train(model, train_inputs, train_labels):
         with tf.GradientTape() as tape:
             y_pred = model(batch) # this calls the call function conveniently
             loss = model.loss(y_pred, train_labels[i * model.batch_size: (i+1)*model.batch_size])
+            # print(loss, model.accuracy(y_pred, train_labels[i * model.batch_size: (i+1)*model.batch_size]))
         model.loss_list.append(loss)
         
         # The keras Model class has the computed property trainable_variables to conveniently
@@ -179,6 +179,7 @@ def main(args):
     '''
     train_inputs, train_labels = get_data("../data/train", 3, 5)
     test_inputs, test_labels = get_data("../data/test", 3, 5)
+
     # Instantiate our model
     model = VIT(args)
 

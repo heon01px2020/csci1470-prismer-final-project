@@ -51,10 +51,8 @@ class VIT(tf.keras.Model):
         ############################################################################################
 
     def call(self, x):
-        # inputs = Input(self.input_size) ## (None, 256, 3072)
-        size = (x.shape[0], self.input_size[0], self.input_size[1])
-        inputs = np.zeros(size)
-        inputs = tf.convert_to_tensor(inputs)
+        target_shape = (self.input_size[0], self.input_size[1])
+        inputs = tf.keras.layers.Reshape(target_shape)(x)
 
         """ Patch + Position Embeddings """
         patch_embed = self.patch_embed(inputs)
@@ -87,7 +85,6 @@ class VIT(tf.keras.Model):
         x = x[:, 0, :] ## (None, 768)
         x = Dropout(0.1)(x)
         x = self.class_head_dense(x)
-
         return x
 
         ############################################################################################
@@ -144,3 +141,35 @@ class ClassToken(Layer):
         cls = tf.broadcast_to(self.w, [batch_size, 1, hidden_dim])
         cls = tf.cast(cls, dtype=inputs.dtype)
         return cls
+    
+class Patches(Layer):
+    def __init__(self, patch_size):
+        super().__init__()
+        self.patch_size = patch_size
+
+    def call(self, images):
+        batch_size = tf.shape(images)[0]
+        patches = tf.image.extract_patches(
+            images=images,
+            sizes=[1, self.patch_size, self.patch_size, 1],
+            strides=[1, self.patch_size, self.patch_size, 1],
+            rates=[1, 1, 1, 1],
+            padding="VALID",
+        )
+        patch_dims = patches.shape[-1]
+        patches = tf.reshape(patches, [batch_size, -1, patch_dims])
+        return patches
+
+class PatchEncoder(Layer):
+    def __init__(self, num_patches, projection_dim):
+        super().__init__()
+        self.num_patches = num_patches
+        self.projection = Dense(units=projection_dim)
+        self.position_embedding = Embedding(
+            input_dim=num_patches, output_dim=projection_dim
+        )
+
+    def call(self, patch):
+        positions = tf.range(start=0, limit=self.num_patches, delta=1)
+        encoded = self.projection(patch) + self.position_embedding(positions)
+        return encoded
