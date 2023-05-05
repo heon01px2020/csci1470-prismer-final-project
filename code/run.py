@@ -6,7 +6,7 @@ import tensorflow as tf
 import numpy as np
 from vit import VIT
 import argparse
-from preprocess import get_train_data, get_val_data
+from preprocess2 import get_train_data, get_val_data
 from matplotlib import pyplot as plt
 import math
 import cv2
@@ -226,7 +226,7 @@ def main(args):
     
     :return: None
     '''
-    text_dir = "/Users/heonlee/Desktop/Courses/CSCI1470/my_prismer/data/tiny_imagenet/wnids.txt"
+    text_dir = "/Users/ilana/Desktop/CS1470/Project/csci1470-prismer-final-project/data/tiny_imagenet/wnids.txt"
     dictionary = {}
     i = 0
     with open(text_dir) as file:
@@ -235,7 +235,11 @@ def main(args):
             i+= 1
     
     train_inputs, train_labels = get_train_data("../data/tiny_imagenet/train", dictionary)
+    print(train_inputs.shape)
+    print(train_labels.shape)
     test_inputs, test_labels = get_val_data("../data/tiny_imagenet/val/images", "../data/tiny_imagenet/val/val_annotations.txt", dictionary)
+    print(test_inputs.shape)
+    print(test_labels.shape)
     testing_set = (args.test_batch % 5) * 1000
 
     train_random_indices = tf.random.shuffle(tf.range(train_inputs.shape[0]))
@@ -244,8 +248,8 @@ def main(args):
     train_labels = tf.gather(train_labels, train_random_indices)
 
     test_random_indices = tf.random.shuffle(tf.range(test_inputs.shape[0]))
-    test_inputs = tf.gather(train_inputs, test_random_indices)
-    test_labels = tf.gather(train_labels, test_random_indices)
+    test_inputs = tf.gather(test_inputs, test_random_indices)
+    test_labels = tf.gather(test_labels, test_random_indices)
 
     train_inputs = train_inputs[:10000]
     train_labels = train_labels[:10000]

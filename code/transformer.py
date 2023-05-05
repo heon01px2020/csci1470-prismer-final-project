@@ -12,8 +12,8 @@ class TransformerBlock(tf.keras.layers.Layer):
 
         self.ff_layer = tf.keras.layers.Dense(emb_sz, activation="relu") 
 
-        self.self_atten = tf.keras.layers.MultiHeadAttention(head_size=128, num_heads = 12)
-        self.self_context_atten = tf.keras.layers.MultiHeadAttention(head_size=128, num_heads = 12)
+        self.self_atten = tf.keras.layers.MultiHeadAttention(num_heads = 2, key_dim = int(emb_sz/2)) #HELP??
+        self.self_context_atten = tf.keras.layers.MultiHeadAttention(num_heads = 2, key_dim=int(emb_sz/2))
         #self.self_atten         = AttentionHead(emb_sz, emb_sz, True)  #if not MultiHead else MultiHeadedAttention(emb_sz, True)
         #self.self_context_atten = AttentionHead(emb_sz, emb_sz, False) #if not MultiHead else MultiHeadedAttention(emb_sz, False)
         self.layer_norm = tf.keras.layers.LayerNormalization() 
@@ -39,10 +39,12 @@ class TransformerBlock(tf.keras.layers.Layer):
         :param context_sequence: tensor of shape [BATCH_SIZE x CONTEXT_SEQ_LENGTH x EMBEDDING_SIZE ]
         :return: tensor of shape [BATCH_SIZE x INPUT_SEQ_LENGTH x EMBEDDING_SIZE ]
         """
-        masked_atten_inputs = self.self_atten(inputs, inputs, inputs)
+        # masked_atten_inputs = self.self_atten(inputs, inputs, inputs)
+        masked_atten_inputs = self.self_atten(inputs, inputs)
         masked_atten_inputs = masked_atten_inputs + inputs
         masked_atten_inputs = self.layer_norm(masked_atten_inputs)
-        unmasked_atten_context = self.self_context_atten(context_sequence, context_sequence, masked_atten_inputs) 
+        # unmasked_atten_context = self.self_context_atten(context_sequence, context_sequence, masked_atten_inputs) 
+        unmasked_atten_context = self.self_context_atten(context_sequence, masked_atten_inputs) 
         # residual connection and layer normalization:
         unmasked_atten_context = unmasked_atten_context + masked_atten_inputs
         unmasked_atten_context = self.layer_norm(unmasked_atten_context)
@@ -50,7 +52,10 @@ class TransformerBlock(tf.keras.layers.Layer):
         # residual connection and layer normalization:
         ff_output = ff_output + unmasked_atten_context
         ff_output = self.layer_norm(ff_output)
+
         output = tf.nn.relu(ff_output)
+        #output  = tf.keras.layers.Softmax()
+        
         return output
 
 

@@ -9,6 +9,7 @@ import tensorflow as tf
 import numpy as np
 import collections
 from tqdm import tqdm
+import cv2
 
 def preprocess_captions(captions, window_size):
     for i, caption in enumerate(captions):
@@ -28,7 +29,7 @@ def preprocess_captions(captions, window_size):
         # Replace the old caption in the captions list with this new cleaned caption
         captions[i] = caption_new
 
-def get_image_features(image_names, data_folder, vis_subset=100):
+def get_image_features(image_names, data_folder, path, vis_subset=100):
     '''
     Method used to extract the features from the images in the dataset using ResNet50
     '''
@@ -38,10 +39,15 @@ def get_image_features(image_names, data_folder, vis_subset=100):
     gap = tf.keras.layers.GlobalAveragePooling2D()  ## Produces Bx2048
     pbar = tqdm(image_names)
     for i, image_name in enumerate(pbar):
-        img_path = f'{data_folder}/Images/{image_name}'
+        img_path = f'{data_folder}/{path}/{image_name}'
         pbar.set_description(f"[({i+1}/{len(image_names)})] Processing '{img_path}' into 2048-D ResNet GAP Vector")
+
         with Image.open(img_path) as img:
-            img_array = np.array(img.resize((224,224)))
+            img = cv2.imread(img_path)
+            img = cv2.resize(img, dsize=(32, 32), interpolation=cv2.INTER_CUBIC)
+            img_array = np.reshape(img, (32, 32, 3))
+            
+        #     img_array = np.array(img.resize((224,224)))
         img_in = tf.keras.applications.resnet50.preprocess_input(img_array)[np.newaxis, :]
         image_features += [gap(resnet(img_in))]
         if i < vis_subset:
@@ -65,82 +71,92 @@ def load_data(data_folder):
     train_text_file_path = f'{data_folder}/textvqa_train.json'
 
     with open(train_text_file_path) as train_file:
-        train_data = json.load(train_file) # python dictionary
+        tr_data = json.load(train_file) # python dictionary
+    
+    train_data = tr_data["data"]
 
     # map each image_id to a dictionary containing the question and a list containing all the answers
-    train_image_ids_to_questions_and_answers = {}
-    for dict in train_data:
-        image_id = dict["image_id"]
-        questions = dict["question"]
-        answers = dict["answers"]
-        train_image_ids_to_questions_and_answers[image_id] = {
-            "question_tokens": questions,
-            "answers": answers
-            }
+    image_ids_to_questions_and_answers = {}
     
-    test_text_file_path = f'{data_folder}/textvqa_test.json'
-
-    with open(test_text_file_path) as test_file:
-        test_data = json.load(test_file) # python dictionary
-    
-    test_image_ids_to_questions_and_answers = {}
-    for dict in test_data:
-        image_id = dict["image_id"]
-        questions = dict["question"]
-        answers = dict["answers"]
-        test_image_ids_to_questions_and_answers[image_id] = {
-            "question_tokens": questions,
+    for dictionary in train_data:
+        try:
+            image_id = dictionary["image_id"]
+            questions = dictionary["question"]
+            answers = dictionary["answers"]
+        except TypeError:
+            continue
+        image_ids_to_questions_and_answers[image_id] = {
+            "question": questions,
             "answers": answers
             }
     
 
-    # #map each image name to a list containing all 5 of its captons
-    # image_names_to_captions = {}
-    # for example in examples:
-    #     img_name, caption = example.split(',', 1)
-    #     image_names_to_captions[img_name] = image_names_to_captions.get(img_name, []) + [caption]
-
+    # with open(test_text_file_path) as test_file:
+    #     data = json.load(test_file) # python dictionary
+    
+    # test_data = te_data["data"]
+    # test_image_ids_to_questions_and_answers = {}
+    # print(test_data)
+    # for dictionary in test_data:
+    #     try:
+    #         image_id = dictionary["image_id"]
+    #         questions = dictionary["question"]
+    #         answers = dictionary["answers"]
+    #     except TypeError:
+    #         continue
+    #     test_image_ids_to_questions_and_answers[image_id] = {
+    #         "question": questions,
+    #         "answers": answers
+    #         }
+    # print(test_image_ids_to_questions_and_answers)
     #randomly split examples into training and testing sets
-    # shuffled_images = list(image_names_to_captions.keys())
-    # random.seed(0)
-    # random.shuffle(shuffled_images)
-    # test_image_names = shuffled_images[:1000]
-    # train_image_names = shuffled_images[1000:]
+    shuffled_images = list(image_ids_to_questions_and_answers.keys())
+    random.seed(0)
+    random.shuffle(shuffled_images)
+    test_image_names = shuffled_images[:2000]
+    train_image_names = shuffled_images[2000:]
 
-    def get_all_questions(image_ids_to_questions_and_answers):
+    def get_all_questions(image_names):
         to_return = []
-        for image_id in image_ids_to_questions_and_answers:
+        for image_id in image_names:
             question = image_ids_to_questions_and_answers[image_id]["question"]
             to_return.append(question)
         return to_return
 
 
     # get lists of all the questions in the train and testing set
-    train_questions = get_all_questions(train_image_ids_to_questions_and_answers)
-    test_questions = get_all_questions(test_image_ids_to_questions_and_answers)
+    train_questions = get_all_questions(train_image_names)
+    test_questions = get_all_questions(test_image_names)
 
 
-    def get_all_answers(image_ids_to_questions_and_answers):
+    def get_all_answers(image_names):
         to_return = []
-        for image_id in image_ids_to_questions_and_answers:
+        for image_id in image_names:
             answers = image_ids_to_questions_and_answers[image_id]["answers"]
             to_return.append(answers)
         return to_return
 
 
     # get lists of all the ansers in the train and testing set
-    train_answers = get_all_answers(train_image_ids_to_questions_and_answers) #a list of lists of answers
-    test_answers = get_all_answers(test_image_ids_to_questions_and_answers)
+    train_answers = get_all_answers(train_image_names) #a list of lists of answers
+    test_answers = get_all_answers(test_image_names)
 
     #remove special charachters and other nessesary preprocessing
     window_size = 20
     preprocess_captions(train_questions, window_size)
     preprocess_captions(test_questions, window_size)
 
+    # preprocess_captions(train_answers, 2)
+    # preprocess_captions(test_answers, 2)
+
+
     # count word frequencies and replace rare words with '<unk>'
     word_count = collections.Counter()
-    for caption in train_questions:
-        word_count.update(caption)
+    for question in train_questions:
+        word_count.update(question)
+    
+    # for answer in train_answers:
+    #     word_count.update(answer)
 
     def unk_captions(captions, minimum_frequency):
         for caption in captions:
@@ -170,20 +186,42 @@ def load_data(data_folder):
                 word2idx[word] = vocab_size
                 question[index] = vocab_size
                 vocab_size += 1
+    
+    for answer in train_answers:
+        for index, word in enumerate(answer):
+            if word in word2idx:
+                answer[index] = word2idx[word]
+            else:
+                word2idx[word] = vocab_size
+                answer[index] = vocab_size
+                vocab_size += 1
+        
     for question in test_questions:
         for index, word in enumerate(question):
             question[index] = word2idx[word] 
+
+    # for answer in test_answers:
+    #     for index, word in enumerate(question):
+    #         answer[index] = word2idx[word] 
     
     # use ResNet50 to extract image features
-    train_image_ids = train_image_ids_to_questions_and_answers.keys()
-    test_image_ids = test_image_ids_to_questions_and_answers.keys()
+    # train_key_list = list(image_ids_to_questions_and_answers.keys())[:5]
+    # test_key_list = list(image_ids_to_questions_and_answers.keys())
+
+    train_image_ids = []
+    test_image_ids = []
+    for image_id in train_image_names:
+        s = image_id + ".jpg"
+        train_image_ids.append(s)
+    
+    for image_id in test_image_names:
+        s = image_id + ".jpg"
+        test_image_ids.append(s)
 
     print("Getting training embeddings")
-    train_image_features, train_images = get_image_features(train_image_ids, data_folder)
+    train_image_features, train_images = get_image_features(train_image_ids, data_folder, "vqa_train_images")
     print("Getting testing embeddings")
-    test_image_features,  test_images  = get_image_features(test_image_ids, data_folder)
-
-
+    test_image_features, test_images  = get_image_features(test_image_ids, data_folder, "vqa_train_images")
 
     return dict(
         train_questions          = np.array(train_questions),

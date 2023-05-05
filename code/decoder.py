@@ -26,15 +26,16 @@ class TransformerDecoder(tf.keras.Model):
         # Define classification layer (logits)
         self.classifier = tf.keras.layers.Dense(self.vocab_size, activation="linear")
 
-    def call(self, encoded_images, captions):
+    def call(self, encoded_images, questions):
         # TODO:
         # 1) Embed the encoded images into a vector (HINT IN NOTEBOOK)
         # 2) Pass the captions through your positional encoding layer
         # 3) Pass the english embeddings and the image sequences to the decoder
         # 4) Apply dense layer(s) to the decoder out to generate logits
         encoded_images = self.image_embedding(tf.expand_dims(encoded_images, 1))
-        captions = self.encoding(captions)
-        decoder_output = self.decoder(captions, encoded_images)
+        questions = self.encoding(questions)
+        decoder_output = self.decoder(questions, encoded_images)
+        
         probs = self.classifier(decoder_output)
         return probs
     

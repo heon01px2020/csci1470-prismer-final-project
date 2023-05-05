@@ -63,10 +63,15 @@ class VIT(tf.keras.Model):
 
         positions = tf.range(start=0, limit=self.num_patches, delta=1) ## (256,)
         pos_embed = self.pos_embed(positions) ## (256, 768)
+        #print(f"pos_embed {pos_embed.shape}")
+
         embed = patch_embed + pos_embed ## (None, 256, 768)
+        #print(f"embed {pos_embed.shape}")
+
         """ Adding Class Token """
         token = self.classtoken(embed)
         x = Concatenate(axis=1)([token, embed]) ## (None, 257, 768)
+        #print(f"add class token {x.shape}")
 
         """ Transformer Encoder """
         for _ in range(self.num_layers):
