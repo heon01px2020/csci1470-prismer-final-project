@@ -1,1 +1,1 @@
-# csci1470-prismer-final-project
+# csci1470-final-project
